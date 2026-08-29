@@ -43,9 +43,13 @@ Source for `01-operating-model.qmd` is `_materials/Strategy_Operating_Model.pdf`
 
 ## Still Unset
 
-Meeting day, time, and room; the semester calendar; the grading scheme and category weights;
-the absence policy; the AI proficiency bar; BYU policy boilerplate. These are marked TBD in the
-files. Do not invent them, ask.
+The grading scheme and category weights; the absence policy; the AI proficiency bar; the
+leadership development topics for sessions 2 to 13; BYU policy boilerplate. These are marked
+TBD in the files. Do not invent them, ask.
+
+Settled: Fridays 12:30 to 1:45 PM in 1315 TNRB, 1.5 credits, 13 sessions Sep 4 to Dec 4, 2026.
+Source is the Fall 2026 teaching schedule (STRAT 490R section 002) and the BYU academic
+calendar. Nov 27 is a Thanksgiving holiday, the only Friday lost.
 
 The operating model PDF says the Lab is Pass/Fail. That is out of date: the course is letter
 graded. Do not restore Pass/Fail from the PDF.
