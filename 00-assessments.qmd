@@ -5,13 +5,14 @@ author: "Scott Murff"
 
 # Assessments
 
-The course is Pass/Fail. There are three requirements.
+The course is letter graded. Category weights are TBD. Three things are required of
+everyone.
 
-| Requirement | What it means |
-|---|---|
-| Weekly attendance | Be in the room each week. Absence policy TBD. |
-| Peer feedback | Give and receive structured feedback with the other leaders during the roundtable. |
-| AI proficiency | Demonstrate working proficiency with AI tools. Bar and evidence TBD. |
+| Requirement | What it means | Weight |
+|---|---|---|
+| Weekly attendance | Be in the room each week. Absence policy TBD. | TBD |
+| Peer feedback | Give and receive structured feedback with the other leaders during the roundtable. | TBD |
+| AI proficiency | Demonstrate working proficiency with AI tools. Bar and evidence TBD. | TBD |
 
 Because student employees are paid for their leadership work, class sessions and
 class-specific assignments are not billable hours. Keep the two separate on your timesheet.

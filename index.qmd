@@ -13,7 +13,7 @@ STRAT 490R, Section 2
 # Syllabus
 
 **Instructor:** Scott Murff, Strategy Program Director\
-**Credits:** 1.5, Pass/Fail\
+**Credits:** 1.5, letter graded\
 **Semesters:** Fall and Winter\
 **Class Time:** TBD\
 **Class Location:** TBD
@@ -49,7 +49,8 @@ and club VPs.
 
 ## Grading
 
-Pass/Fail. To pass you must:
+The course is letter graded. The grading scheme is TBD. Three things are required of
+everyone:
 
 - Attend weekly
 - Participate in peer feedback
