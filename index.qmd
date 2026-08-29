@@ -1,0 +1,71 @@
+---
+title: "Syllabus"
+author: "Scott Murff"
+format:
+  html: default
+  pdf: default
+---
+
+::: {.course-numbers-page}
+STRAT 490R, Section 2
+:::
+
+# Syllabus
+
+**Instructor:** Scott Murff, Strategy Program Director\
+**Credits:** 1.5, Pass/Fail\
+**Semesters:** Fall and Winter\
+**Class Time:** TBD\
+**Class Location:** TBD
+
+## Content Overview
+
+Strategy Leadership Lab is a weekly working session for the roughly 30 students who lead the
+BYU Strategy Program and its four clubs: MCA, PMA, CSA, and WSA. It exists to do two things at
+once: develop you as a leader, and give the whole leadership team protected time to coordinate
+on shared priorities.
+
+The Lab is the primary coordination mechanism in the [Strategy Program operating
+model](01-operating-model.qmd). One meeting cadence governs the entire program.
+
+Enrollment is limited to program and club leaders. It is optional but encouraged for everyone
+serving in a presidency. If your schedule prevents you from enrolling, you are welcome to audit
+or simply attend.
+
+## Weekly Structure
+
+Each session runs in two blocks.
+
+| Block | Minutes | What happens |
+|---|---|---|
+| Leadership development | First 30 | Guest speakers, case discussions, skill building on influence, conflict, and managing up |
+| Project roundtable | Last 45 | Club and presidency updates, cross-team coordination, peer feedback and coaching |
+
+## Who Is in the Room
+
+All student leaders across the program: the presidency (co-presidents, VP Events, VP Marketing),
+the MCA, PMA, and CSA co-president pairs, the WSA president, VP Alumni, VP Student Development,
+and club VPs.
+
+## Grading
+
+Pass/Fail. To pass you must:
+
+- Attend weekly
+- Participate in peer feedback
+- Gain proficiency with AI
+
+See [Assessments](00-assessments.qmd) for detail.
+
+## Credit and Pay
+
+Students do not receive pay and credit for the same work.
+
+- Class is where you reflect, discuss, and learn. The job is where you execute, deliver, and
+  coordinate.
+- Student employees may not log paid work hours during scheduled class sessions or on
+  class-specific assignments.
+
+## Course Policies
+
+Attendance, AI use, accommodations, and the standard BYU policy language: to be written.

@@ -1,0 +1,17 @@
+---
+title: "Assessments"
+author: "Scott Murff"
+---
+
+# Assessments
+
+The course is Pass/Fail. There are three requirements.
+
+| Requirement | What it means |
+|---|---|
+| Weekly attendance | Be in the room each week. Absence policy TBD. |
+| Peer feedback | Give and receive structured feedback with the other leaders during the roundtable. |
+| AI proficiency | Demonstrate working proficiency with AI tools. Bar and evidence TBD. |
+
+Because student employees are paid for their leadership work, class sessions and
+class-specific assignments are not billable hours. Keep the two separate on your timesheet.

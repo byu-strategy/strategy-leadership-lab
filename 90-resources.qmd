@@ -1,0 +1,10 @@
+---
+title: "Resources"
+author: "Scott Murff"
+---
+
+# Resources
+
+- [Operating Model](01-operating-model.qmd), the structure this course coordinates
+- Leadership roster spreadsheet: keep your presidency current as roles change
+- Readings and guest speaker materials: to be added

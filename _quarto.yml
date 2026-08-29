@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - images
+
+book:
+  title: "Strategy Leadership Lab"
+  author: "Scott Murff"
+  favicon: images/favicon.png
+  chapters:
+    - part: Course Information
+      chapters:
+        - index.qmd
+        - 00-schedule.qmd
+        - 00-assessments.qmd
+        - 01-operating-model.qmd
+    - part: Resources
+      chapters:
+        - 90-resources.qmd
+
+format:
+  html:
+    include-in-header: _header.html
+    include-after-body: _footer.html
+    theme: cosmo
+    link-external-icon: false
+    link-external-newwindow: false
+    css: styles.css
+    markdown: default
+    toc-title: On this page
+
+number-sections: false
+
+execute:
+  echo: true
+  eval: false

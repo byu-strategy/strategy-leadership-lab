@@ -1,0 +1,30 @@
+<header class="book-header-banner">
+  <a href="https://strategy.byu.edu" target="_blank">
+    <img src="images/strat-logo.png" alt="BYU Strategy - Marriott School of Business" />
+  </a>
+</header>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5TPMPSE4HZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5TPMPSE4HZ');
+</script>
+
+<!-- Sidebar title: add the course number -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var title = document.querySelector('.sidebar-title');
+    if (!title) return;
+
+    if (!document.querySelector('.sidebar-course-numbers')) {
+      var nums = document.createElement('div');
+      nums.className = 'sidebar-course-numbers';
+      nums.textContent = 'STRAT 490R';
+      title.insertAdjacentElement('afterend', nums);
+    }
+  });
+</script>

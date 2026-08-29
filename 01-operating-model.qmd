@@ -1,0 +1,74 @@
+---
+title: "Operating Model"
+author: "Scott Murff"
+---
+
+# Strategy Program Operating Model
+
+The Strategy Program has grown by 50% over the last five years and now serves 120 new students
+per year. The operating model below aligns faculty, student leaders, career services, and
+academic advisement at that scale. It has three parts.
+
+## 1. Integrated Leadership
+
+Four roles share oversight of the student leadership team.
+
+| Role | Who | Responsibility |
+|---|---|---|
+| Program Director | Scott Murff | Program strategy and cross-unit coordination |
+| Business Career Director | Soraya Cullimore | Employer relationships; supervises the three career club co-president pairs |
+| Advisement Director | Lisa Giguere | Academic advising and graduation planning |
+| Club faculty advisors | See below | Mentorship, industry connections, domain expertise |
+
+## 2. The Clubs
+
+Each career club exists to open doors and prepare students for a specific profession. MCA, PMA,
+and CSA co-presidents report operationally to Soraya Cullimore, with a dotted line to their
+faculty advisor. WSA is an affinity group providing community and mentorship; its president
+reports directly to Lena Lizunova.
+
+| Club | Full name | Mission | Faculty advisor |
+|---|---|---|---|
+| MCA | Management Consulting Association | Place students at consulting firms | Dave Bryce |
+| PMA | Product Management Association | Place students in PM and product adjacent roles | Scott Murff |
+| CSA | Corporate Strategy Association | Place students in corporate strategy and ops roles | Ben Lewis |
+| WSA | Women in Strategy Association | Community and mentorship for women | Lena Lizunova |
+
+Ben Lewis is the current CSA advisor. The operating model PDF, written earlier, lists Mark
+Hansen.
+
+## 3. Leadership Selection
+
+Current co-presidents nominate successors. The hiring committee considers those nominations and
+makes the final decision. Volunteer VPs are selected by co-presidents with no committee
+approval required.
+
+| Position | Count | Hiring committee |
+|---|---|---|
+| Presidency: co-presidents, VP Events, VP Marketing | 4 | Scott Murff |
+| MCA co-presidents | 2 | Soraya Cullimore and Dave Bryce |
+| PMA co-presidents | 2 | Soraya Cullimore and Scott Murff |
+| CSA co-presidents | 2 | Soraya Cullimore and Ben Lewis |
+| VP Alumni | 1 | Soraya Cullimore and Scott Murff |
+| VP Student Development | 1 | Lisa Giguere and Scott Murff |
+| WSA president | 1 | Lena Lizunova |
+
+**Timeline.** Most positions are filled in March and active by May. MCA is the exception:
+co-presidents are selected in November, after consulting offers settle. Off-cycle graduations
+can create mid-year vacancies, which the relevant hiring committee fills as needed.
+
+MCA co-president criteria: demonstrated success in consulting recruiting, leadership ability,
+and credibility to represent the program to top firms.
+
+## Employee and Volunteer Roles
+
+Thirteen student leaders are employees; roughly sixteen are volunteers. The difference is scope
+and time commitment.
+
+| | Employee | Volunteer |
+|---|---|---|
+| Hours per week | 8 to 10 | 3 to 5 |
+| Commitment | Full year | Semester or year |
+| Scope | Owns outcomes | Owns specific tasks and initiatives |
+| Accountability | Performance-based, like any job | Lower stakes, can step back when busy |
+| Selection | Nominated and interviewed | Selected by co-presidents |

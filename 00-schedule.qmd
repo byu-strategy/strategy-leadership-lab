@@ -1,0 +1,17 @@
+---
+title: "Schedule"
+author: "Scott Murff"
+---
+
+# Schedule
+
+One session per week for the full semester. Each session is 30 minutes of leadership
+development followed by a 45 minute project roundtable.
+
+Meeting day, time, and room: TBD. Session topics below are placeholders until the semester
+calendar is set.
+
+| Week | Date | Leadership development (30 min) | Roundtable focus (45 min) |
+|---|---|---|---|
+| 1 | TBD | Kickoff, the operating model, expectations | Semester priorities by club |
+| 2 | TBD | TBD | Club and presidency updates |

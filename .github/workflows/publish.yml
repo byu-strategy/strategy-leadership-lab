@@ -1,0 +1,63 @@
+name: Publish Quarto Website
+
+on:
+  push:
+    branches: [main]
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # Ensure Python is available and install Jupyter + friends for Quarto's python engine
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies (Jupyter + project reqs if present)
+        run: |
+          python -m pip install --upgrade pip
+          pip install jupyter nbformat ipykernel
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      # Install Quarto CLI
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          # Use a fixed version for reproducibility; can omit to get latest
+          version: "1.8.24"
+
+      # Render the Quarto project (will execute python chunks via Jupyter)
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
+        # If you want to render a subdir, add:
+        # with:
+        #   path: .
+
+      # Configure and deploy to GitHub Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'docs'  # matches _quarto.yml output-dir
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
