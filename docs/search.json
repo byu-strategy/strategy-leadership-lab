@@ -114,7 +114,18 @@
     "href": "00-assessments.html",
     "title": "Assessments",
     "section": "",
-    "text": "Assessments\nThe course is letter graded. Category weights are TBD. Three things are required of everyone.\n\n\n\n\n\n\n\n\nRequirement\nWhat it means\nWeight\n\n\n\n\nWeekly attendance\nBe in the room each week. Absence policy TBD.\nTBD\n\n\nPeer feedback\nGive and receive structured feedback with the other leaders during the roundtable.\nTBD\n\n\nAI proficiency\nDemonstrate working proficiency with AI tools. Requires a paid Claude Pro or ChatGPT Plus subscription, $20 per month, maintained all semester. Bar and evidence TBD.\nTBD\n\n\n\nBecause student employees are paid for their leadership work, class sessions and class-specific assignments are not billable hours. Keep the two separate on your timesheet.",
+    "text": "Assessments\nThe course is letter graded. Category weights are TBD. Four things are required of everyone.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessments</span>"
+    ]
+  },
+  {
+    "objectID": "00-assessments.html#weekly-club-updates",
+    "href": "00-assessments.html#weekly-club-updates",
+    "title": "Assessments",
+    "section": "Weekly Club Updates",
+    "text": "Weekly Club Updates\nTwelve updates per club, one per week, due Thursday by 11:59 PM. Co-presidents alternate weeks; the WSA president sends every week. The update is credited to the club, so a missed week counts against the club rather than an individual.\n\n\n\nStatus\nCredit\n\n\n\n\nOn time, Thursday by 11:59 PM\nFull\n\n\nLate, by Friday 12:30 PM\nHalf\n\n\nAfter class starts\nNone\n\n\n\nFormat, recipients, and an example are on the Weekly Updates page.\nClub VPs and presidency members who do not send updates are graded on the other three requirements. Weight redistribution TBD.\nBecause student employees are paid for their leadership work, class sessions and class-specific assignments are not billable hours. Keep the two separate on your timesheet.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessments</span>"
@@ -264,6 +275,94 @@
     ]
   },
   {
+    "objectID": "03-weekly-updates.html",
+    "href": "03-weekly-updates.html",
+    "title": "Weekly Updates",
+    "section": "",
+    "text": "Weekly Updates\nEach club sends one written update per week. It goes to Soraya Cullimore and is published on the Strategy Program website, so it serves two audiences at once: the person who supervises the co-president pairs, and the students across campus who want to know what the clubs are doing.\nThis is graded. It is the only deliverable in the course that produces a public artifact.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "03-weekly-updates.html#who-sends-it",
+    "href": "03-weekly-updates.html#who-sends-it",
+    "title": "Weekly Updates",
+    "section": "Who Sends It",
+    "text": "Who Sends It\nOne update per club per week, sent by one of the two co-presidents. The pair alternates weeks, so each co-president writes six updates across the semester. WSA has a single president, who sends every week.\n\n\n\nClub\nSent by\n\n\n\n\nMCA\nCo-presidents, alternating weeks\n\n\nPMA\nCo-presidents, alternating weeks\n\n\nCSA\nCo-presidents, alternating weeks\n\n\nWSA\nPresident, weekly\n\n\n\nDecide your rotation in week one and keep it. A missed week counts against the club, not against whichever co-president happened to be up.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "03-weekly-updates.html#deadline",
+    "href": "03-weekly-updates.html#deadline",
+    "title": "Weekly Updates",
+    "section": "Deadline",
+    "text": "Deadline\nThursday by 11:59 PM\nThursday rather than the weekend, so the updates are in hand before Friday’s session. What you write becomes the Announcements block: if your club has an event, a deadline, or a problem the room should know about, the update is how it gets there.\n\nFirst update due: Thu, Sep 10, ahead of session 2\nFinal update due: Thu, Dec 3, ahead of session 13\nNo update due Thu, Nov 26. Thanksgiving, and there is no class Nov 27.\nTotal updates per club: 12\n\nSession 1 on Sep 4 is the kickoff, so there is no update before it. Every session after that has one.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "03-weekly-updates.html#recipients",
+    "href": "03-weekly-updates.html#recipients",
+    "title": "Weekly Updates",
+    "section": "Recipients",
+    "text": "Recipients\n\nTo: Soraya Cullimore\nCC: Scott Murff, your faculty advisor, your co-president\nAlso: submitted for publication on the Strategy Program website\n\nWrite it knowing it will be public. Nothing goes in a weekly update that you would not want a prospective member, a recruiter, or a firm contact to read.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "03-weekly-updates.html#format",
+    "href": "03-weekly-updates.html#format",
+    "title": "Weekly Updates",
+    "section": "Format",
+    "text": "Format\nFour sections. The first three mirror the APM Lab weekly update; the fourth exists because these clubs serve students, not a single manager.\n1. What we did this week [Required]\n\nCompleted events, meetings, outreach, and deliverables\nLead with outcomes, not activity. “42 students at the case workshop” beats “held a case workshop.”\nInclude numbers when you have them: attendance, applications, offers, signups\n\n2. What we are doing next week [Required]\n\nPriorities and planned events, with owners\nBe realistic about what fits in a week\n\n3. Blockers, risks, or dependencies [Omit if none]\n\nAnything that might slow you down\nWhat you need from Soraya, your advisor, or another club\nDecisions you are waiting on\n\n4. What students should know [Required]\n\nThe part that gets published. Upcoming events with dates, deadlines, and how to participate.\nWritten for a student who is not in your club and may not be a strategy major. Spell out acronyms and say what the event is for.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "03-weekly-updates.html#example",
+    "href": "03-weekly-updates.html#example",
+    "title": "Weekly Updates",
+    "section": "Example",
+    "text": "Example\nSubject: PMA Weekly Update - Week of Sep 8\n\nHi Soraya,\n\nWhat we did this week:\n- Ran the PM resume workshop, 38 students attended, 22 from outside the strategy major\n- Confirmed Adobe for the Oct 2 info session\n- Sent 14 alumni outreach emails, 6 replies so far\n\nNext week:\n- Finalize the fall mentorship pairings (Maya owns this)\n- Post the case competition signup form\n- First mock interview round, Thursday evening\n\nBlockers:\n- Still need a room for Oct 2, the request has been pending two weeks\n- Our marketing VP is out for a family emergency through the 20th\n\nWhat students should know:\n- PMA is hosting an Adobe info session Thu, Oct 2 at 5:00 PM in the Tanner Building.\n  Open to any major. No signup required.\n- Mentorship applications close Fri, Sep 19. Anyone interested in product management\n  can apply, first or fourth year, any major.\n\nThanks,\n[Name]",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "03-weekly-updates.html#grading",
+    "href": "03-weekly-updates.html#grading",
+    "title": "Weekly Updates",
+    "section": "Grading",
+    "text": "Grading\nTwelve updates. Points and category weight are set on the Assessments page.\n\n\n\nStatus\nCredit\n\n\n\n\nOn time, Thursday by 11:59 PM\nFull\n\n\nLate, by Friday 12:30 PM (start of class)\nHalf\n\n\nAfter class starts\nNone\n\n\n\nThe late cutoff is the start of class because an update that arrives after the session has already missed its second job, which is feeding the room.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "03-weekly-updates.html#what-makes-a-good-update",
+    "href": "03-weekly-updates.html#what-makes-a-good-update",
+    "title": "Weekly Updates",
+    "section": "What Makes a Good Update",
+    "text": "What Makes a Good Update\n\nShort. Bullets, not paragraphs. If it runs past one screen, cut it.\nSpecific. Numbers, names, dates. “Good turnout” tells Soraya nothing.\nHonest about blockers. Flagging a problem early is the entire point. A clean update every week from a club that is struggling is worse than no update.\nConsistent. The value is in the streak. Twelve on-time updates build a record of the semester that nobody has to reconstruct in December.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
     "objectID": "90-resources.html",
     "href": "90-resources.html",
     "title": "Resources",
@@ -271,7 +370,7 @@
     "text": "Resources\n\nOperating Model, the structure this course coordinates\nLeadership roster spreadsheet: keep your presidency current as roles change\nReadings and guest speaker materials: to be added",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Resources</span>"
     ]
   }
 ]

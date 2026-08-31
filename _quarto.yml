@@ -16,6 +16,7 @@ book:
         - 00-assessments.qmd
         - 01-operating-model.qmd
         - 02-session-template.qmd
+        - 03-weekly-updates.qmd
     - part: Resources
       chapters:
         - 90-resources.qmd

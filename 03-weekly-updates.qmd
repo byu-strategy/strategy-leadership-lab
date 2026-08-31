@@ -1,0 +1,138 @@
+---
+title: "Weekly Updates"
+author: "Scott Murff"
+---
+
+# Weekly Updates
+
+Each club sends one written update per week. It goes to Soraya Cullimore and is published on
+the Strategy Program website, so it serves two audiences at once: the person who supervises
+the co-president pairs, and the students across campus who want to know what the clubs are
+doing.
+
+This is graded. It is the only deliverable in the course that produces a public artifact.
+
+## Who Sends It
+
+One update per club per week, sent by one of the two co-presidents. The pair alternates
+weeks, so each co-president writes six updates across the semester. WSA has a single
+president, who sends every week.
+
+| Club | Sent by |
+|---|---|
+| MCA | Co-presidents, alternating weeks |
+| PMA | Co-presidents, alternating weeks |
+| CSA | Co-presidents, alternating weeks |
+| WSA | President, weekly |
+
+Decide your rotation in week one and keep it. A missed week counts against the club, not
+against whichever co-president happened to be up.
+
+## Deadline
+
+**Thursday by 11:59 PM**
+
+Thursday rather than the weekend, so the updates are in hand before Friday's session. What
+you write becomes the Announcements block: if your club has an event, a deadline, or a
+problem the room should know about, the update is how it gets there.
+
+- First update due: Thu, Sep 10, ahead of session 2
+- Final update due: Thu, Dec 3, ahead of session 13
+- No update due Thu, Nov 26. Thanksgiving, and there is no class Nov 27.
+- Total updates per club: 12
+
+Session 1 on Sep 4 is the kickoff, so there is no update before it. Every session after that
+has one.
+
+## Recipients
+
+- **To:** Soraya Cullimore
+- **CC:** Scott Murff, your faculty advisor, your co-president
+- **Also:** submitted for publication on the Strategy Program website
+
+Write it knowing it will be public. Nothing goes in a weekly update that you would not want a
+prospective member, a recruiter, or a firm contact to read.
+
+## Format
+
+Four sections. The first three mirror the APM Lab weekly update; the fourth exists because
+these clubs serve students, not a single manager.
+
+**1. What we did this week [Required]**
+
+- Completed events, meetings, outreach, and deliverables
+- Lead with outcomes, not activity. "42 students at the case workshop" beats "held a case
+  workshop."
+- Include numbers when you have them: attendance, applications, offers, signups
+
+**2. What we are doing next week [Required]**
+
+- Priorities and planned events, with owners
+- Be realistic about what fits in a week
+
+**3. Blockers, risks, or dependencies [Omit if none]**
+
+- Anything that might slow you down
+- What you need from Soraya, your advisor, or another club
+- Decisions you are waiting on
+
+**4. What students should know [Required]**
+
+- The part that gets published. Upcoming events with dates, deadlines, and how to
+  participate.
+- Written for a student who is not in your club and may not be a strategy major. Spell out
+  acronyms and say what the event is for.
+
+## Example
+
+```
+Subject: PMA Weekly Update - Week of Sep 8
+
+Hi Soraya,
+
+What we did this week:
+- Ran the PM resume workshop, 38 students attended, 22 from outside the strategy major
+- Confirmed Adobe for the Oct 2 info session
+- Sent 14 alumni outreach emails, 6 replies so far
+
+Next week:
+- Finalize the fall mentorship pairings (Maya owns this)
+- Post the case competition signup form
+- First mock interview round, Thursday evening
+
+Blockers:
+- Still need a room for Oct 2, the request has been pending two weeks
+- Our marketing VP is out for a family emergency through the 20th
+
+What students should know:
+- PMA is hosting an Adobe info session Thu, Oct 2 at 5:00 PM in the Tanner Building.
+  Open to any major. No signup required.
+- Mentorship applications close Fri, Sep 19. Anyone interested in product management
+  can apply, first or fourth year, any major.
+
+Thanks,
+[Name]
+```
+
+## Grading
+
+Twelve updates. Points and category weight are set on the
+[Assessments](00-assessments.qmd) page.
+
+| Status | Credit |
+|---|---|
+| On time, Thursday by 11:59 PM | Full |
+| Late, by Friday 12:30 PM (start of class) | Half |
+| After class starts | None |
+
+The late cutoff is the start of class because an update that arrives after the session has
+already missed its second job, which is feeding the room.
+
+## What Makes a Good Update
+
+- **Short.** Bullets, not paragraphs. If it runs past one screen, cut it.
+- **Specific.** Numbers, names, dates. "Good turnout" tells Soraya nothing.
+- **Honest about blockers.** Flagging a problem early is the entire point. A clean update
+  every week from a club that is struggling is worse than no update.
+- **Consistent.** The value is in the streak. Twelve on-time updates build a record of the
+  semester that nobody has to reconstruct in December.
