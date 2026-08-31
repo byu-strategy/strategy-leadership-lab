@@ -1,0 +1,295 @@
+---
+title: "Principles"
+author: "Scott Murff"
+---
+
+# Principles
+
+These are the principles of the strategy program. The same fourteen apply across the program's
+courses and clubs, here applied to running a club.
+
+Each principle carries a scripture reference, collected at the [end of this
+page](#scripture-references).
+
+The sources they draw on, following Brigham Young's admonition to gather up all
+the good and true principles wherever we find them: the [BYU Marriott mission and
+values](https://marriott.byu.edu/our-story/mission/), the standard works, [Christlike
+Attributes](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023/14-chapter-6?lang=eng)
+from Preach My Gospel, [Amazon's leadership
+principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles),
+[Bridgewater's original philosophy](https://www.bridgewater.com/culture/bridgewaters-original-philosophy),
+[McKinsey's purpose, mission and values](https://www.mckinsey.com/about-us/overview/our-purpose-mission-and-values),
+[John Wooden's Pyramid of Success](https://coachwooden.com/pyramid-of-success), and
+[Aristotle, Nicomachean Ethics, Book II](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html).
+
+## Why They Are Written This Way
+
+Most codes of conduct list principles to be maximized: be excellent, be truthful, be bold.
+Stated that way they have two problems.
+
+The first is that almost any good quality can be taken to excess. Truthfulness can overshoot
+into cruelty. Excellence can overshoot into perfectionism, or into standards that humiliate
+people. Initiative can overshoot into recklessness. A list of maxims gives you no way to say
+"you are doing too much of a good thing," so the only correction on offer is to abandon the
+principle, which nobody wants.
+
+The second is that two good principles collide. Speed collides with rigor. Candor collides
+with charity. Excellence collides with a deadline.
+
+Aristotle solved both with the **golden mean**. Every good quality of character sits between
+two failure modes, one of doing too little and one of doing too much. Courage is not the
+opposite of cowardice; it sits between cowardice and recklessness. Generosity sits between
+stinginess and waste. The failure is never the quality itself. It is having too little or too
+much of it, at the wrong moment, toward the wrong person, for the wrong reason.
+
+The mean is not fixed by a formula. It is found by judgment, and judgment is built by
+practice. Each principle below is written with both of its failures named, because you cannot
+aim for the mean if you do not know the extremes.
+
+These are aspirational. Everyone misses, often, in both directions. We keep striving, and
+over time develop true wisdom.
+
+> Success is peace of mind which is a direct result of self-satisfaction in knowing you made
+> the effort to become the best of which you are capable.
+>
+> John Wooden
+
+## 1. Hold to the truth, and use it well
+
+| Principle | Too little | The golden mean | Too much |
+|---|---|---|---|
+| Act with integrity | Deceitful | States it plainly, including the part that costs something | Self-righteous |
+| Be discerning | Repeats what was said in confidence. Says the true thing that only wounds | Tells the person who needs it, in the way they can receive it | Calls it discretion when it is avoidance |
+| Be courageous | Goes along | Challenges, then commits | Fights for ego |
+
+## 2. Think hard and stay teachable
+
+| Principle | Too little | The golden mean | Too much |
+|---|---|---|---|
+| Be curious | Accepts the brief as given. Stops at the first answer | Asks the question behind the question | Chases the interesting question instead of the one that matters |
+| Be rigorous | Accepts what sounds right. Trusts the output without checking the reasoning | Reasons from first principles | Rederives what is already settled. Demands proof past the point the decision needs |
+| Choose humility | Defends the position instead of testing it. Ties ego to being right | Asks what they missed, then changes | Hedges. Defers when they know better |
+| Seek personal improvement | Hears the feedback and files it | Asks for the critique, then acts on it | Works on themselves instead of the work. Makes every review about their growth |
+
+## 3. Do great work
+
+| Principle | Too little | The golden mean | Too much |
+|---|---|---|---|
+| Act in faith | Waits for certainty. Needs the risk gone before starting | Moves on incomplete information | Skips the preparation and calls it faith |
+| Strive for excellence | Settles for what passes. Mistakes activity for achievement | Raises the bar, then clears it | Polishes past the point of value. Wields the standard to shame |
+| Demonstrate high agency | Waits to be told. Explains why it was not theirs | Sees the gap and closes it | Takes what was not theirs to take. Carries it alone instead of raising it |
+| Show patience | Forces the answer before it is ready. Quits when it gets hard | Presses where it can move, waits where it cannot | Waits and calls it patience. Tolerates what should have been escalated |
+
+## 4. Make each other better
+
+| Principle | Too little | The golden mean | Too much |
+|---|---|---|---|
+| Respect others | Talks past people. Dismisses the junior voice | Listens before answering | Trades candor for comfort. Plays favorites |
+| Forgive quickly | Keeps score. Lets it color the next interaction | Says it once, then lets it go | Forgives before anything is named, so the pattern repeats |
+| Develop others | Keeps what they know. Treats a teammate as a pair of hands | Hands it over and explains the why | Does it for them instead of with them |
+
+## For Some Things There Is No Golden Mean
+
+Almost everything above is a matter of degree. A few things are not. Aristotle is explicit
+that the doctrine has limits: some acts "imply by their names that they are themselves bad,"
+and of those "it is not possible, then, ever to be right with regard to them." There is no
+correct amount of them, so they are not on the scale.
+
+## When Principles Collide
+
+They will. Rigor says check it again; the deadline says ship. Courage says say it now;
+discernment says not in this room, not in front of these people. Excellence says raise the
+bar; patience says this is not the week.
+
+There is no rule that decides. Aristotle says the judgment "rests with perception," meaning
+the read of a person who is actually present and has done this before. That is why the answer
+to a hard call is usually a conversation rather than a lookup.
+
+Three practical aids.
+
+**Name the collision out loud.** "I think rigor and the deadline are fighting here" is a
+faster route to a decision than arguing the merits as though only one principle were in play.
+
+**Correct against your own pull.** Aiming straight at the mean undershoots, because your own
+habit is already bending you. Learn which way you personally miss, then overcorrect. "We
+shall get into the intermediate state by drawing well away from error, as people do in
+straightening sticks that are bent."
+
+**The red face test.** When a situation is genuinely ambiguous, ask whether you could explain
+the decision to a respected leader without being red in the face. If not, do not do it.
+
+## Which Way Did I Miss?
+
+The most useful question you can ask a peer, given how this page is written, is directional:
+**which way did I miss, too little or too much?**
+
+That is far easier for a teammate to answer than a rating, and it is the only kind of answer
+you can act on. Use it in your [feedback conversations](04-peer-feedback.qmd), and use it
+after any meeting or event you ran.
+
+## Scripture References
+
+Each entry names the commitment or principle it belongs to, so this section can be read on
+its own. These are not proof texts. They are the older statement of the same idea, and in
+several cases they name both failures at once, which is the whole reason this page is written
+the way it is.
+
+### Commitment 1. Hold to the truth, and use it well
+
+*Ephesians 4:15* But speaking the truth in love, may grow up into him in all things, which is
+the head, even Christ.
+
+*Doctrine and Covenants 93:24* And truth is knowledge of things as they are, and as they were,
+and as they are to come.
+
+**Act with integrity**
+
+*Alma 53:20* And they were all young men, and they were exceedingly valiant for courage, and
+also for strength and activity; but behold, this was not all, they were men who were true at
+all times in whatsoever thing they were entrusted.
+
+*Proverbs 11:3* The integrity of the upright shall guide them: but the perverseness of
+transgressors shall destroy them.
+
+*Doctrine and Covenants 124:15* And again, verily I say unto you, blessed is my servant Hyrum
+Smith; for I, the Lord, love him because of the integrity of his heart, and because he loveth
+that which is right before me, saith the Lord.
+
+**Be discerning**
+
+*Proverbs 11:13* A talebearer revealeth secrets: but he that is of a faithful spirit
+concealeth the matter.
+
+*Proverbs 25:11* A word fitly spoken is like apples of gold in pictures of silver.
+
+**Be courageous**
+
+*Doctrine and Covenants 121:43* Reproving betimes with sharpness, when moved upon by the Holy
+Ghost; and then showing forth afterwards an increase of love toward him whom thou hast
+reproved, lest he esteem thee to be his enemy.
+
+*Joshua 1:9* Have not I commanded thee? Be strong and of a good courage; be not afraid,
+neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.
+
+### Commitment 2. Think hard and stay teachable
+
+*Doctrine and Covenants 88:118* And as all have not faith, seek ye diligently and teach one
+another words of wisdom; yea, seek ye out of the best books words of wisdom; seek learning,
+even by study and also by faith.
+
+**Be curious**
+
+*Proverbs 18:15* The heart of the prudent getteth knowledge; and the ear of the wise seeketh
+knowledge.
+
+*1 Nephi 10:19* For he that diligently seeketh shall find; and the mysteries of God shall be
+unfolded unto them, by the power of the Holy Ghost, as well in these times as in times of old,
+and as well in times of old as in times to come; wherefore, the course of the Lord is one
+eternal round.
+
+**Be rigorous**
+
+*Doctrine and Covenants 9:8* But, behold, I say unto you, that you must study it out in your
+mind; then you must ask me if it be right, and if it is right I will cause that your bosom
+shall burn within you; therefore, you shall feel that it is right.
+
+*1 Thessalonians 5:21* Prove all things; hold fast that which is good.
+
+**Choose humility**
+
+*Alma 32:16* Therefore, blessed are they who humble themselves without being compelled to be
+humble; or rather, in other words, blessed is he that believeth in the word of God, and is
+baptized without stubbornness of heart, yea, without being brought to know the word, or even
+compelled to know, before they will believe.
+
+*Ether 12:27* And if men come unto me I will show unto them their weakness. I give unto men
+weakness that they may be humble; and my grace is sufficient for all men that humble
+themselves before me; for if they humble themselves before me, and have faith in me, then will
+I make weak things become strong unto them.
+
+*Proverbs 11:2* When pride cometh, then cometh shame: but with the lowly is wisdom.
+
+**Seek personal improvement**
+
+*2 Nephi 28:30* For behold, thus saith the Lord God: I will give unto the children of men line
+upon line, precept upon precept, here a little and there a little; and blessed are those who
+hearken unto my precepts, and lend an ear unto my counsel, for they shall learn wisdom; for
+unto him that receiveth I will give more; and from them that shall say, We have enough, from
+them shall be taken away even that which they have.
+
+*Doctrine and Covenants 93:12-13* And I, John, saw that he received not of the fulness at the
+first, but received grace for grace; And he received not of the fulness at first, but continued
+from grace to grace, until he received a fulness.
+
+### Commitment 3. Do great work
+
+*Ecclesiastes 9:10* Whatsoever thy hand findeth to do, do it with thy might; for there is no
+work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.
+
+**Act in faith**
+
+*Ether 12:6* And now, I, Moroni, would speak somewhat concerning these things; I would show
+unto the world that faith is things which are hoped for and not seen; wherefore, dispute not
+because ye see not, for ye receive no witness until after the trial of your faith.
+
+*James 2:17* Even so faith, if it hath not works, is dead, being alone.
+
+**Strive for excellence**
+
+*Colossians 3:23* And whatsoever ye do, do it heartily, as to the Lord, and not unto men.
+
+*Doctrine and Covenants 4:2* Therefore, O ye that embark in the service of God, see that ye
+serve him with all your heart, might, mind and strength, that ye may stand blameless before
+God at the last day.
+
+**Demonstrate high agency**
+
+*Doctrine and Covenants 58:26-28* For behold, it is not meet that I should command in all
+things; for he that is compelled in all things, the same is a slothful and not a wise servant;
+wherefore he receiveth no reward. Verily I say, men should be anxiously engaged in a good
+cause, and do many things of their own free will, and bring to pass much righteousness; For the
+power is in them, wherein they are agents unto themselves. And inasmuch as men do good they
+shall in nowise lose their reward.
+
+**Show patience**
+
+*Mosiah 4:27* And see that all these things are done in wisdom and order; for it is not
+requisite that a man should run faster than he has strength. And again, it is expedient that he
+should be diligent, that thereby he might win the prize; therefore, all things must be done in
+order.
+
+*Doctrine and Covenants 123:17* Therefore, dearly beloved brethren, let us cheerfully do all
+things that lie in our power; and then may we stand still, with the utmost assurance, to see
+the salvation of God, and for his arm to be revealed.
+
+### Commitment 4. Make each other better
+
+*Doctrine and Covenants 88:122* Appoint among yourselves a teacher, and let not all be
+spokesmen at once; but let one speak at a time and let all listen unto his sayings, that when
+all have spoken that all may be edified of all, and that every man may have an equal privilege.
+
+**Respect others**
+
+*James 1:19* Wherefore, my beloved brethren, let every man be swift to hear, slow to speak,
+slow to wrath.
+
+*Acts 10:34* Then Peter opened his mouth, and said, Of a truth I perceive that God is no
+respecter of persons.
+
+**Forgive quickly**
+
+*Doctrine and Covenants 64:9-10* Wherefore, I say unto you, that ye ought to forgive one
+another; for he that forgiveth not his brother his trespasses standeth condemned before the
+Lord; for there remaineth in him the greater sin. I, the Lord, will forgive whom I will
+forgive, but of you it is required to forgive all men.
+
+*Ephesians 4:32* And be ye kind one to another, tenderhearted, forgiving one another, even as
+God for Christ's sake hath forgiven you.
+
+**Develop others**
+
+*Luke 22:32* But I have prayed for thee, that thy faith fail not: and when thou art converted,
+strengthen thy brethren.
+
+*Ephesians 4:12* For the perfecting of the saints, for the work of the ministry, for the
+edifying of the body of Christ.

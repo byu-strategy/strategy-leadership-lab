@@ -11,12 +11,11 @@ sequence does not change week to week. What changes is the content inside each b
 | Block | Minutes | Clock | Purpose |
 |---|---|---|---|
 | Announcements | 5 | 12:30 | Logistics, deadlines, program news |
-| Quote of the Day and Leader Profile | 5 | 12:35 | One quote, one leader, briefly |
-| Leadership Principle | 10 | 12:40 | The week's concept, taught |
+| Discussant block | 15 | 12:35 | Quote and scripture, leader profile, and the week's reading, student led |
 | Drills | 10 | 12:50 | Follow along and build it live, usually with AI |
 | Practice | 45 | 1:00 | Work session. Students build, coaches roam |
 
-The first four blocks are the 30 minute leadership development block. Practice is the 45
+The first three blocks are the 30 minute leadership development block. Practice is the 45
 minute working block, published on the schedule as the project roundtable.
 
 ## Announcements (5 min)
@@ -29,22 +28,28 @@ Practice or in email. Standing items:
 - Recruiting calendar changes
 - New hires, role changes, vacancies
 
-## Quote of the Day and Leader Profile (5 min)
+## Discussant Block (15 min)
 
-One quote and one leader, together in five minutes. Keep the profile to three or four
-sentences: who they are, the decision or moment worth knowing, what it cost them.
+Student led, faculty curated. You assign the reading, the quote, and the scripture. Two or
+three discussants deliver them, add a leader profile of their own choosing, and run the
+discussion. Everyone takes one turn across the semester.
 
-Rotate who presents. A student leader takes this block, signs up a week ahead, and picks
-both the quote and the profile. The only constraint is that the pair should connect to the
-week's principle.
+The reading carries the week's leadership principle, drawn from the three skill areas the
+operating model names: influence, conflict, and managing up. Guest speakers and case
+discussions take this block on the weeks they appear.
 
-## Leadership Principle (10 min)
+Keep the quote, scripture, and profile to five minutes together. The quote and scripture are
+always a pair, both speaking to the same principle from two directions. The profile is three
+or four sentences: who they are, the decision worth knowing, what it cost them.
 
-One principle, taught. The operating model names three skill areas to draw from: influence,
-conflict, and managing up. Guest speakers and case discussions fill this block too.
+**Run a discussion, do not give a presentation.** Fifteen minutes split two or three ways is
+not enough to summarize a reading, and a summary is not what the block is for. Three standing
+questions carry every week, grounded in the golden mean: name the virtue, name where it
+becomes a vice, name when the quote stops applying. Discussants add a fourth of their own. If
+the discussants are the only ones talking, it has failed.
 
-Ten minutes buys one idea, not three. State the principle, give one example of it working,
-give one example of it failing, then move to Drills.
+Discussants circulate a one-page brief by Tuesday 11:59 PM so someone who did not finish the
+reading can still take part.
 
 ## Drills (10 min)
 
@@ -105,9 +110,10 @@ Announcements. Pick one and keep it the same every week.
 
 ## Weekly Prep Checklist
 
-- [ ] Announcements collected from club leaders by Thursday
-- [ ] Quote and Leader Profile presenter confirmed
-- [ ] Principle chosen, with one success example and one failure example
+- [ ] Announcements pulled from Monday's presidency roll-ups
+- [ ] Reading, quote, and scripture assigned well ahead of the discussants' prep
+- [ ] Discussants confirmed, brief circulated Tuesday
+- [ ] Principle the reading carries is clear to you, with one success and one failure example in reserve
 - [ ] Follow-along built and run once yourself, with the starting prompt written down
 - [ ] Practice: what each club is working on, so roaming has a target
 - [ ] Sarah and Luke's mode set for the week: roaming or broken out
@@ -122,15 +128,16 @@ Session #__  |  Date: ______
 ANNOUNCEMENTS (5)
 -
 
-QUOTE + LEADER PROFILE (5)
-Presenter:
+DISCUSSANT BLOCK (15)
+Discussants:
+Reading:
+Principle it carries:
 Quote:
-Leader:
-
-PRINCIPLE (10)
-Principle:
-Works:
-Fails:
+Scripture:
+Principle they share:
+Leader profile:
+Own fourth question:
+Backup if the room is quiet:
 
 DRILLS (10) - follow along
 What we build:

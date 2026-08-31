@@ -1,0 +1,127 @@
+---
+title: "Feedback Conversations"
+author: "Scott Murff"
+---
+
+# Feedback Conversations
+
+Twice a semester you sit down with the person you report to and have a real conversation
+about how the work is going, in both directions. Then each of you submits a short reflection
+saying it happened and what you took from it.
+
+There is no survey and no rating form. Filling out a scored questionnaire about someone you
+see every week is awkward, and it produces a document instead of a conversation. The
+conversation is the point. Learning to give a colleague a specific, useful, uncomfortable
+piece of feedback in person is the single most transferable skill in this course.
+
+## What Is Graded
+
+The reflection, not the feedback. You get credit for having the conversation and submitting
+your reflection. Nothing anyone says about you affects your grade, in either direction.
+
+That is deliberate. If the feedback you received moved your grade, everyone would learn to
+say pleasant things, and the instrument would be worth nothing. It also keeps the course fair
+across employees and volunteers: a conversation costs the same thirty minutes whether you are
+paid for nine hours a week or volunteering for four.
+
+## Who Talks to Whom
+
+The same pairing as the [weekly updates](03-weekly-updates.qmd). You already send this person
+an update every week, so they have twelve weeks of evidence and you have nothing to explain
+from scratch.
+
+| You are | You meet with |
+|---|---|
+| Club VPs | Their own co-presidents |
+| Club co-presidents | Their co-president, and Soraya Cullimore or Lena Lizunova |
+| Program VPs | The program co-presidents |
+| Program co-presidents | Scott Murff, and each other |
+
+Co-president pairs meet with each other in the same round. You two have more visibility into
+each other's work than anyone else in the program, and no form would capture it.
+
+## The Rounds
+
+| Round | Conversations held | Reflection due | Purpose |
+|---|---|---|---|
+| Midterm | Oct 5 to Oct 16 | Fri, Oct 16, 11:59 PM | Developmental. Time to change something |
+| Final | Nov 17 to Dec 4 | Fri, Dec 4, 11:59 PM | Closing the loop on what changed |
+
+Schedule the conversation yourself. If a pair has not met by the Friday a round closes, use
+that session's Practice block.
+
+## How the Conversation Goes
+
+Thirty minutes, both directions. The leader goes first, then asks for feedback on their own
+leadership. A conversation where only one person hears anything is a performance review, not
+a feedback conversation.
+
+Structure:
+
+1. **Strengths.** What is working. Be specific enough that they know which behavior to keep.
+2. **One thing to work on.** Not three. One, chosen because it would make the most
+   difference.
+3. **Support.** What you can do to help.
+4. **Turn it around.** The person who spoke first now asks: what should I be doing
+   differently?
+
+**The question to ask, in both directions: which way did I miss, too little or too much?**
+Every principle has two failure modes, so "you were not courageous enough" and "you fought
+for ego" are different corrections. Directional is far easier to answer than a rating, and it
+is the only kind of answer you can act on. See [Principles](06-principles.qmd).
+
+## What to Talk About
+
+Four dimensions, the same ones used across the strategy program. The
+[Principles](06-principles.qmd) page is the other half of that vocabulary, and either one
+works as an agenda.
+
+**Ownership.** Whether they drive the work.
+
+| Where they might be | What it looks like |
+|---|---|
+| Early | Waits to be told. Work stops when the next step is unclear. Blockers surface at the deadline |
+| Solid | Owns a defined piece and finishes it. Raises blockers early. Still needs the plan handed to them |
+| Strong | Owns their area end to end and pulls others along. Reprioritizes when things change, and what comes back is better than what was asked for |
+
+**Collaboration.** Whether people want them on their team.
+
+| Where they might be | What it looks like |
+|---|---|
+| Early | Works alone and the team finds out late. Takes feedback as criticism, or agrees and changes nothing |
+| Solid | Reliable teammate. Reviews others' work when asked, shares context, acts on feedback next time |
+| Strong | Raises the standard of the whole team. Handles disagreement without it becoming personal, and changes position publicly when someone else is right |
+
+**Communication.** The artifacts: updates, emails, decks, announcements.
+
+| Where they might be | What it looks like |
+|---|---|
+| Early | Updates are late or absent. The reader has to ask what happened |
+| Solid | Answer first, support underneath. Someone reading the first line knows the state of the work |
+| Strong | Writes for the specific reader. Produces the thing the team reuses |
+
+Your twelve weekly updates are the evidence here. Pull them up during the conversation.
+
+**Stakeholder Presence.** How they show up in front of someone senior or outside the club:
+recruiters, alumni, firm contacts, faculty, students from other majors.
+
+| Where they might be | What it looks like |
+|---|---|
+| Early | Avoids the contact. Silent, or speaks and creates confusion someone else repairs |
+| Solid | Prepared and credible on their own work. Does not yet steer the conversation |
+| Strong | The firm contact asks for this person by name. Surfaces a risk before anyone else finds it |
+
+Nobody is strong on all four. The useful conversation is about one of them.
+
+## The Reflection
+
+Short. Four things, submitted by each person independently:
+
+1. Who you met with and when
+2. The one thing you are working on next
+3. One thing you committed to as a result
+4. One thing you asked them to do differently
+
+Write about yourself, not about them. This is not a place to record what someone else is bad
+at. If something came up that needs more than a conversation, bring it to Scott, Soraya, or
+your faculty advisor directly. It does not travel through a reflection.

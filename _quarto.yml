@@ -17,6 +17,9 @@ book:
         - 01-operating-model.qmd
         - 02-session-template.qmd
         - 03-weekly-updates.qmd
+        - 04-peer-feedback.qmd
+        - 05-discussant.qmd
+        - 06-principles.qmd
     - part: Resources
       chapters:
         - 90-resources.qmd

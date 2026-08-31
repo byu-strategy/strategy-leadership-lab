@@ -21,15 +21,13 @@ means your leader is never the only person who knows you did the work.
 | You are | You send to | CC |
 |---|---|---|
 | Program co-presidents | Scott Murff | strategy-program@byu.edu |
-| VP Events, VP Marketing | Program co-presidents | strategy-program@byu.edu |
+| VP Events, VP Marketing, VP Alumni, VP Student Development | Program co-presidents | strategy-program@byu.edu |
 | MCA co-presidents | Soraya Cullimore | strategy-program@byu.edu, David Bryce |
 | PMA co-presidents | Soraya Cullimore | strategy-program@byu.edu, Scott Murff |
 | CSA co-presidents | Soraya Cullimore | strategy-program@byu.edu, Ben Lewis |
 | Club VPs | Their own co-presidents | strategy-program@byu.edu |
 | WSA co-presidents | Lena Lizunova | strategy-program@byu.edu |
 | WSA VPs | Their own co-presidents | strategy-program@byu.edu |
-| VP Alumni | Soraya Cullimore | strategy-program@byu.edu |
-| VP Student Development | Lisa Giguere | strategy-program@byu.edu |
 
 Addresses are not listed here. Everyone named is in the BYU directory, so look them up
 there. The one address you need verbatim is `strategy-program@byu.edu`.
@@ -49,26 +47,37 @@ Your choice how to handle it:
 - **Two separate emails**, one to each leader, each covering only that role.
 
 Either way it counts as one update for the week. CC `strategy-program@byu.edu` on whatever
-you send.
+you send. If your two roles sit in different tiers, use the later of the two deadlines.
 
 If you receive updates from people below you, read them before you write your own. Your
 update should reflect what your team did, not only what you personally touched.
 
 ## Deadline
 
-**Thursday by 11:59 PM**
+Two deadlines, because the updates cascade. VPs write first so their co-presidents have
+something to roll up.
 
-Thursday rather than the weekend, so every update is in hand before Friday's session. What
-you write becomes the Announcements block: if there is an event, a deadline, or a problem the
-room should know about, the update is how it gets there.
+| You are | Due | Covers |
+|---|---|---|
+| VPs | **Friday, 11:59 PM** | The week just finished, including that day's session |
+| Presidencies | **Monday, 11:59 PM** | Your own week plus what your VPs reported |
 
-- First update due: Thu, Sep 10, ahead of session 2
-- Final update due: Thu, Dec 3, ahead of session 13
-- No update due Thu, Nov 26. Thanksgiving, and there is no class Nov 27.
-- Total updates: 12
+Friday night for VPs is hours after class, while what you committed to in the Practice block
+is still fresh. Many people write it in the twenty minutes after the session ends.
 
-Session 1 on Sep 4 is the kickoff, so there is no update before it. Every session after that
-has one.
+Monday for presidencies gives you a full weekend gap to read five or six updates and write
+one that speaks for the club. It also means Soraya, Lena, and Scott start the week with eight
+summaries rather than 27 scattered emails, with the whole week ahead to unblock anything
+flagged.
+
+Nothing here requires working on a Saturday or a Sunday.
+
+- First VP update: Fri, Sep 11. First presidency roll-up: Mon, Sep 14.
+- Last VP update: Fri, Dec 4. Last presidency roll-up: Mon, Dec 7.
+- No update the week of Thanksgiving. There is no class Nov 27.
+- Total: 12 each.
+
+Session 1 on Sep 4 is the kickoff, so no update follows it.
 
 ## Format
 
@@ -139,17 +148,17 @@ A VP update is shorter. Three sections, often five or six bullets total.
 
 ## Grading
 
-Twelve updates, graded individually. Points and category weight are set on the
+Twelve updates, graded individually. The category weight is on the
 [Assessments](00-assessments.qmd) page.
 
-| Status | Credit |
-|---|---|
-| On time, Thursday by 11:59 PM | Full |
-| Late, by Friday 12:30 PM (start of class) | Half |
-| After class starts | None |
+| You are | Full credit | Half credit through | No credit |
+|---|---|---|---|
+| VPs | Fri, 11:59 PM | Mon, 11:59 PM | After Monday |
+| Presidencies | Mon, 11:59 PM | Wed, 11:59 PM | After Wednesday |
 
-The late cutoff is the start of class because an update that arrives after the session has
-already missed its second job, which is feeding the room.
+Each late window closes at the point the update stops being useful. A VP update that arrives
+after Monday night missed the roll-up it was meant to feed. A presidency update that arrives
+after Wednesday leaves nobody time to act on a blocker before the week ends.
 
 Missing the CC means the update cannot be tracked, and an untracked update does not count.
 Add `strategy-program@byu.edu` to your contacts in week one.

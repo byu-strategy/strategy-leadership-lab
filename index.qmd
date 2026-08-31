@@ -66,6 +66,8 @@ Claude Pro is the default and what the follow-along drills are built around. Cha
 an accepted substitute. Free tiers do not work for this course: the usage limits stop you
 partway through a drill.
 
+There is no AI exam. The subscription exists because you use it in class every week.
+
 Bring a laptop every week. The Drills block is a live follow-along and the Practice block is
 forty five minutes of working, so both require a machine and a working subscription.
 
@@ -74,14 +76,17 @@ rather than dropping the course.
 
 ## Grading
 
-The course is letter graded. The grading scheme is TBD. Three things are required of
-everyone:
+The course is letter graded. Four components:
 
-- Attend weekly
-- Participate in peer feedback
-- Gain proficiency with AI
+| Component | Weight |
+|---|---|
+| Weekly update emails | 40% |
+| Attendance | 25% |
+| Feedback conversations | 20% |
+| Discussant | 15% |
 
-See [Assessments](00-assessments.qmd) for detail.
+Nothing is graded on hours worked, so an unpaid volunteer VP can earn full marks. See
+[Assessments](00-assessments.qmd) for detail.
 
 ## Credit and Pay
 

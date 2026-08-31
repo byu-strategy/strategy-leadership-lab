@@ -1,0 +1,176 @@
+---
+title: "Being a Discussant"
+author: "Scott Murff"
+---
+
+# Being a Discussant
+
+Once during the semester you and one or two others own the front of the room for fifteen
+minutes.
+
+The reading, the quote, and the scripture are assigned. You do not choose them. What you
+bring is the leader profile, one question of your own, and the ability to get twenty-six
+people talking.
+
+Everyone takes exactly one turn. Twenty-seven leaders, twelve sessions, two or three
+discussants a week.
+
+## The Job in One Sentence
+
+Get twenty-six busy people to think out loud about one idea for ten minutes.
+
+That is harder than presenting and it is a different skill. Presenting is something you can do
+alone in a room. Running a discussion means the other people have to talk, which means your
+preparation is mostly about them, not about you.
+
+## What You Actually Do
+
+**Week one: sign up.** Pick a session. The reading for each session is already assigned, so
+you are choosing a date and a topic together.
+
+**Two weeks out: meet your co-discussants.** Fifteen minutes on a call is enough. Decide who
+takes the quote and scripture, who takes the leader profile, and who opens the discussion. Three of your
+questions are already written for you. Agree on the fourth.
+
+**One week out: read it properly.** Not a skim. You need to know what the reading argues, what
+it gets wrong, and what it would mean for someone running a club at BYU. Bring an opinion.
+
+**Tuesday, 11:59 PM: circulate the brief.** One page, to the whole class. See below.
+
+**Friday, 12:35: run it.**
+
+## The One-Page Brief
+
+One page. Not two. Sent to the class by Tuesday 11:59 PM so people have three days.
+
+Five parts:
+
+1. **The quote and the scripture**, printed, and what you think they share
+2. **The reading**, with a link and an honest time estimate
+3. **What it argues**, in three or four sentences
+4. **Why it matters here.** One paragraph connecting it to something a club leader in this
+   program actually faces
+5. **Your own question**, the fourth one. Anything you are curious about. Printed, so people
+   can think about it before Friday
+
+The brief exists so that someone who did not finish the reading can still take part. That is
+not a loophole, it is the design. Twenty-seven club leaders in October will not all finish
+every reading, and a discussion that only works if everyone did is a discussion that fails
+half the time.
+
+## The Fifteen Minutes
+
+| Minutes | What |
+|---|---|
+| 3 | Quote and scripture |
+| 2 | Leader profile |
+| 10 | Discussion |
+
+**The quote and the scripture.** Assigned, always as a pair, both speaking to the week's
+principle from two directions.
+
+Your job is not to find them, it is to land them. Read both out loud, say in one sentence what
+you think they share, and stop. Do not explain either for two minutes.
+
+Sometimes the pair will not say the identical thing. A quote about decisiveness beside a
+scripture about patience is not a mistake; it is the mean, put in the room before anyone has
+argued about it. If you notice the tension, say so. That is usually the best sentence anyone
+says in the first three minutes.
+
+**The leader profile.** This one is yours to choose. Three or four sentences: who they are,
+the decision or moment worth knowing, what it cost them. A real person, living or dead,
+ideally one nobody in the room would have picked. Pick someone who fits the week's principle,
+including someone who got it wrong.
+
+**The discussion.** Open with a question, not a summary. Everyone read the brief; they do not
+need you to recap it.
+
+## The Three Standing Questions
+
+Every discussion in this course asks the same three questions. They do not change week to
+week, and you do not have to invent them.
+
+1. **What about this leader or this reading inspires you?** Name the principle. Not "they
+   were great," but which specific quality, and what it looked like in practice. The
+   [Principles](06-principles.qmd) page has fourteen to choose from.
+
+2. **Where does that principle become a vice?** Push it too far and every strength turns into
+   something else. Name what it becomes, and if you can, name a time you have seen the excess
+   in this program.
+
+3. **Under what conditions does the quote stop applying?** When would you have acted
+   differently than this leader did, and why?
+
+Then bring **one question of your own**. Anything you are curious about: something in the
+reading, something it made you think about, something happening in the program right now.
+Three questions are standardized so you are not starting from a blank page. The fourth is
+yours.
+
+You will not get through all four in ten minutes. That is expected. Two good ones beat four
+rushed ones.
+
+## Why These Three Questions
+
+They come from the golden mean, the framework the [Principles](06-principles.qmd) page lays
+out.
+
+Aristotle argued that a virtue is not a feeling or a single act but a settled disposition to
+choose well, and that it sits in a mean between two failure modes: one of doing too little
+and one of doing too much. Courage is not the opposite of cowardice; it sits between cowardice
+and recklessness. There are two ways to miss, not one.
+
+That is why leadership advice so often contradicts itself. "Be decisive" and "gather input"
+are not opposing camps, they are the two ways of missing the same mean. A co-president who
+never decides is halting. One who decides before anyone has spoken is impulsive. The question
+is never which advice is right, it is where the mean sits for this decision, this week, with
+these people.
+
+Most leadership quotes are a maximum dressed up as a truth. Question 2 is how you find the
+edge, and question 3 is how you find the conditions where the edge matters.
+
+**Use the principles table.** Naming the principle is the whole first move, and "what is the
+excess version of this" is much easier to answer once it has a name. All fourteen are on the
+[Principles](06-principles.qmd) page with both failure modes already written.
+
+## How to Run a Discussion
+
+Six things that decide whether this works:
+
+**Open with your hardest question, not your easiest.** A warm-up question gets warm-up
+answers and you have ten minutes.
+
+**Make the fourth one arguable.** The three standing questions already are. "What did you
+think of the reading?" produces silence. "The author says you should never escalate to your
+advisor without telling your co-president first. When is that wrong?" produces an argument.
+Ask what you actually want to know, not what sounds like a discussion question.
+
+**Count to ten in your head.** The silence after a question feels much longer to you than to
+anyone else. Almost every discussion that dies is killed by the facilitator answering their
+own question at second four.
+
+**Call on people by name.** You know all twenty-six of them. Use it. "You ran the case
+workshop last week, does this match what happened?" beats asking the room in general.
+
+**Do not answer your own questions.** Your opinion is the least useful one in the room during
+your fifteen minutes.
+
+**Follow the fire.** If the room catches on question one, ride it and drop the rest. Getting
+through all four is not the goal.
+
+## Grading
+
+Fifteen points, 15% of the course grade.
+
+| | Points |
+|---|---|
+| Brief circulated on time, one page, five parts present | 5 |
+| Your fourth question is a real question, one you actually want answered | 5 |
+| You ran a discussion rather than gave a presentation | 5 |
+
+The third one is the whole point. If you and your co-discussants did most of the talking, that
+is the section that loses points, no matter how well prepared you were.
+
+## If You Cannot Make Your Week
+
+Swap with someone. Arrange it in advance and tell Scott. Do not spend your free absence on
+the one session where twenty-six people are counting on you.

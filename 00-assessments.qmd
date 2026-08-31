@@ -5,30 +5,97 @@ author: "Scott Murff"
 
 # Assessments
 
-The course is letter graded. Category weights are TBD. Four things are required of
-everyone.
+The course is letter graded. Four things are graded.
 
-| Requirement | What it means | Weight |
+| Component | What it means | Weight |
 |---|---|---|
-| Weekly attendance | Be in the room each week. Absence policy TBD. | TBD |
-| Weekly update email | An end-of-week update sent to the person you report to, CC strategy-program@byu.edu. Twelve total. See [Weekly Updates](03-weekly-updates.qmd). | TBD |
-| Peer feedback | Give and receive structured feedback with the other leaders during the roundtable. | TBD |
-| AI proficiency | Demonstrate working proficiency with AI tools. Requires a paid Claude Pro or ChatGPT Plus subscription, $20 per month, maintained all semester. Bar and evidence TBD. | TBD |
+| Weekly update emails | Twelve updates to the person you report to, CC strategy-program@byu.edu. VPs Friday, presidencies Monday. See [Weekly Updates](03-weekly-updates.qmd). | 40% |
+| Attendance | Be in the room. Thirteen sessions, one free absence. | 25% |
+| Feedback conversations | Two conversations with your leader, midterm and final, plus a short reflection each time. See [Feedback Conversations](04-peer-feedback.qmd). | 20% |
+| Discussant | Lead the discussion once, including a one-page brief on the reading. See [Being a Discussant](05-discussant.qmd). | 15% |
+
+Nothing in this course is graded on hours worked. Every component is available in full to an
+unpaid volunteer VP and a paid employee alike, by design. See Credit and Pay in the
+[syllabus](index.qmd).
 
 ## Weekly Update Emails
 
-Twelve updates, due Thursday by 11:59 PM. Every student in the Lab sends one, to the person
-directly above them in the program, with `strategy-program@byu.edu` in CC. The CC is how
-completion is tracked, so an update without it does not count.
+Twelve updates each, sent to the person directly above you in the program, with
+`strategy-program@byu.edu` in CC. The CC is how completion is tracked, so an update without
+it does not count.
 
-| Status | Credit |
+Two deadlines, because the updates cascade. VPs write first so their co-presidents have
+something to roll up.
+
+| You are | Full credit | Half credit through | No credit |
+|---|---|---|---|
+| VPs | Fri, 11:59 PM | Mon, 11:59 PM | After Monday |
+| Presidencies | Mon, 11:59 PM | Wed, 11:59 PM | After Wednesday |
+
+Nothing here requires working on a Saturday or a Sunday. The reporting table, format, and an
+example are on the [Weekly Updates](03-weekly-updates.qmd) page.
+
+## Feedback Conversations
+
+Two rounds. You meet with the person you report to, both of you give feedback, and each of
+you submits a short reflection afterward.
+
+| Round | Conversations held | Reflection due |
+|---|---|---|
+| Midterm | Oct 5 to Oct 16 | Fri, Oct 16, 11:59 PM |
+| Final | Nov 17 to Dec 4 | Fri, Dec 4, 11:59 PM |
+
+The reflection is what is graded, not the feedback. Nothing anyone says about you affects
+your grade. Details are on the [Feedback Conversations](04-peer-feedback.qmd) page.
+
+## Attendance
+
+Thirteen sessions.
+
+**Everyone gets one free absence, no questions asked.** Do not email anyone about it, do not
+explain it, do not apologize for it. It is yours to spend on whatever the semester throws at
+you: an interview, an illness, a family thing, a week that got away from you.
+
+After that, absences count.
+
+| Sessions missed | Attendance credit |
 |---|---|
-| On time, Thursday by 11:59 PM | Full |
-| Late, by Friday 12:30 PM | Half |
-| After class starts | None |
+| 0 or 1 | Full |
+| 2 | 12 of 13 |
+| 3 | 11 of 13 |
+| and so on | one session per absence |
 
-The reporting table, format, and an example are on the
-[Weekly Updates](03-weekly-updates.qmd) page.
+Each absence past the first costs about two points of your final grade.
+
+Two things the free absence does not cover. It does not excuse that week's update, which is
+sent by email and does not require you to be in the room. And if you miss the session you are
+signed up to lead as discussant, arrange a swap with someone in advance rather than spending
+the free absence on it.
+
+## Discussant
+
+Once during the semester you lead the front of the room for fifteen minutes. The reading,
+quote, and scripture are assigned; you bring a leader profile, one question of your own, and
+the facilitation. Two or three discussants share each
+session, so everyone takes exactly one turn.
+
+Your job is to run the discussion, not to summarize the reading. Three of the four questions
+are the same every week and are written for you; the fourth is yours, on anything you are
+curious about. If the discussants are
+the only ones talking, it has not worked.
+
+Circulate a one-page brief on the reading by **Tuesday 11:59 PM** so the rest of the room can
+take part whether or not they finished it. The brief is graded with the turn.
+
+Sign-ups happen in week one. Everyone gets one turn, so the fifteen minutes weigh the same
+for a paid co-president and an unpaid VP. Full detail, including how to run a discussion that
+does not die, is on the [Being a Discussant](05-discussant.qmd) page.
+
+There is no separate AI assessment. AI proficiency is built and demonstrated in the weekly
+drills, which is why the paid subscription is required. See Required Tools in the
+[syllabus](index.qmd).
+
+## Credit and Pay
 
 Because student employees are paid for their leadership work, class sessions and
 class-specific assignments are not billable hours. Keep the two separate on your timesheet.

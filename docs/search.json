@@ -48,7 +48,7 @@
     "href": "index.html#required-tools",
     "title": "Strategy Leadership Lab",
     "section": "Required Tools",
-    "text": "Required Tools\nEvery student in the Lab maintains a paid AI subscription for the semester. Either one:\n\n\n\nTool\nTier\nCost\n\n\n\n\nClaude\nPro\n$20 per month\n\n\nChatGPT\nPlus\n$20 per month\n\n\n\nClaude Pro is the default and what the follow-along drills are built around. ChatGPT Plus is an accepted substitute. Free tiers do not work for this course: the usage limits stop you partway through a drill.\nBring a laptop every week. The Drills block is a live follow-along and the Practice block is forty five minutes of working, so both require a machine and a working subscription.\nIf the subscription is a financial hardship, talk to Scott before the add/drop deadline rather than dropping the course.",
+    "text": "Required Tools\nEvery student in the Lab maintains a paid AI subscription for the semester. Either one:\n\n\n\nTool\nTier\nCost\n\n\n\n\nClaude\nPro\n$20 per month\n\n\nChatGPT\nPlus\n$20 per month\n\n\n\nClaude Pro is the default and what the follow-along drills are built around. ChatGPT Plus is an accepted substitute. Free tiers do not work for this course: the usage limits stop you partway through a drill.\nThere is no AI exam. The subscription exists because you use it in class every week.\nBring a laptop every week. The Drills block is a live follow-along and the Practice block is forty five minutes of working, so both require a machine and a working subscription.\nIf the subscription is a financial hardship, talk to Scott before the add/drop deadline rather than dropping the course.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Syllabus</span>"
@@ -59,7 +59,7 @@
     "href": "index.html#grading",
     "title": "Strategy Leadership Lab",
     "section": "Grading",
-    "text": "Grading\nThe course is letter graded. The grading scheme is TBD. Three things are required of everyone:\n\nAttend weekly\nParticipate in peer feedback\nGain proficiency with AI\n\nSee Assessments for detail.",
+    "text": "Grading\nThe course is letter graded. Four components:\n\n\n\nComponent\nWeight\n\n\n\n\nWeekly update emails\n40%\n\n\nAttendance\n25%\n\n\nFeedback conversations\n20%\n\n\nDiscussant\n15%\n\n\n\nNothing is graded on hours worked, so an unpaid volunteer VP can earn full marks. See Assessments for detail.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Syllabus</span>"
@@ -114,7 +114,7 @@
     "href": "00-assessments.html",
     "title": "Assessments",
     "section": "",
-    "text": "Assessments\nThe course is letter graded. Category weights are TBD. Four things are required of everyone.",
+    "text": "Assessments\nThe course is letter graded. Four things are graded.\nNothing in this course is graded on hours worked. Every component is available in full to an unpaid volunteer VP and a paid employee alike, by design. See Credit and Pay in the syllabus.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessments</span>"
@@ -125,7 +125,51 @@
     "href": "00-assessments.html#weekly-update-emails",
     "title": "Assessments",
     "section": "Weekly Update Emails",
-    "text": "Weekly Update Emails\nTwelve updates, due Thursday by 11:59 PM. Every student in the Lab sends one, to the person directly above them in the program, with strategy-program@byu.edu in CC. The CC is how completion is tracked, so an update without it does not count.\n\n\n\nStatus\nCredit\n\n\n\n\nOn time, Thursday by 11:59 PM\nFull\n\n\nLate, by Friday 12:30 PM\nHalf\n\n\nAfter class starts\nNone\n\n\n\nThe reporting table, format, and an example are on the Weekly Updates page.\nBecause student employees are paid for their leadership work, class sessions and class-specific assignments are not billable hours. Keep the two separate on your timesheet.",
+    "text": "Weekly Update Emails\nTwelve updates each, sent to the person directly above you in the program, with strategy-program@byu.edu in CC. The CC is how completion is tracked, so an update without it does not count.\nTwo deadlines, because the updates cascade. VPs write first so their co-presidents have something to roll up.\n\n\n\nYou are\nFull credit\nHalf credit through\nNo credit\n\n\n\n\nVPs\nFri, 11:59 PM\nMon, 11:59 PM\nAfter Monday\n\n\nPresidencies\nMon, 11:59 PM\nWed, 11:59 PM\nAfter Wednesday\n\n\n\nNothing here requires working on a Saturday or a Sunday. The reporting table, format, and an example are on the Weekly Updates page.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessments</span>"
+    ]
+  },
+  {
+    "objectID": "00-assessments.html#feedback-conversations",
+    "href": "00-assessments.html#feedback-conversations",
+    "title": "Assessments",
+    "section": "Feedback Conversations",
+    "text": "Feedback Conversations\nTwo rounds. You meet with the person you report to, both of you give feedback, and each of you submits a short reflection afterward.\n\n\n\nRound\nConversations held\nReflection due\n\n\n\n\nMidterm\nOct 5 to Oct 16\nFri, Oct 16, 11:59 PM\n\n\nFinal\nNov 17 to Dec 4\nFri, Dec 4, 11:59 PM\n\n\n\nThe reflection is what is graded, not the feedback. Nothing anyone says about you affects your grade. Details are on the Feedback Conversations page.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessments</span>"
+    ]
+  },
+  {
+    "objectID": "00-assessments.html#attendance",
+    "href": "00-assessments.html#attendance",
+    "title": "Assessments",
+    "section": "Attendance",
+    "text": "Attendance\nThirteen sessions.\nEveryone gets one free absence, no questions asked. Do not email anyone about it, do not explain it, do not apologize for it. It is yours to spend on whatever the semester throws at you: an interview, an illness, a family thing, a week that got away from you.\nAfter that, absences count.\n\n\n\nSessions missed\nAttendance credit\n\n\n\n\n0 or 1\nFull\n\n\n2\n12 of 13\n\n\n3\n11 of 13\n\n\nand so on\none session per absence\n\n\n\nEach absence past the first costs about two points of your final grade.\nTwo things the free absence does not cover. It does not excuse that week’s update, which is sent by email and does not require you to be in the room. And if you miss the session you are signed up to lead as discussant, arrange a swap with someone in advance rather than spending the free absence on it.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessments</span>"
+    ]
+  },
+  {
+    "objectID": "00-assessments.html#discussant",
+    "href": "00-assessments.html#discussant",
+    "title": "Assessments",
+    "section": "Discussant",
+    "text": "Discussant\nOnce during the semester you lead the front of the room for fifteen minutes. The reading, quote, and scripture are assigned; you bring a leader profile, one question of your own, and the facilitation. Two or three discussants share each session, so everyone takes exactly one turn.\nYour job is to run the discussion, not to summarize the reading. Three of the four questions are the same every week and are written for you; the fourth is yours, on anything you are curious about. If the discussants are the only ones talking, it has not worked.\nCirculate a one-page brief on the reading by Tuesday 11:59 PM so the rest of the room can take part whether or not they finished it. The brief is graded with the turn.\nSign-ups happen in week one. Everyone gets one turn, so the fifteen minutes weigh the same for a paid co-president and an unpaid VP. Full detail, including how to run a discussion that does not die, is on the Being a Discussant page.\nThere is no separate AI assessment. AI proficiency is built and demonstrated in the weekly drills, which is why the paid subscription is required. See Required Tools in the syllabus.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessments</span>"
+    ]
+  },
+  {
+    "objectID": "00-assessments.html#credit-and-pay",
+    "href": "00-assessments.html#credit-and-pay",
+    "title": "Assessments",
+    "section": "Credit and Pay",
+    "text": "Credit and Pay\nBecause student employees are paid for their leadership work, class sessions and class-specific assignments are not billable hours. Keep the two separate on your timesheet.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessments</span>"
@@ -191,7 +235,7 @@
     "href": "02-session-template.html",
     "title": "Session Template",
     "section": "",
-    "text": "Session Template\nEvery session runs the same five blocks in the same order, the way a practice does. The sequence does not change week to week. What changes is the content inside each block.\nThe first four blocks are the 30 minute leadership development block. Practice is the 45 minute working block, published on the schedule as the project roundtable.",
+    "text": "Session Template\nEvery session runs the same five blocks in the same order, the way a practice does. The sequence does not change week to week. What changes is the content inside each block.\nThe first three blocks are the 30 minute leadership development block. Practice is the 45 minute working block, published on the schedule as the project roundtable.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Session Template</span>"
@@ -209,22 +253,11 @@
     ]
   },
   {
-    "objectID": "02-session-template.html#quote-of-the-day-and-leader-profile-5-min",
-    "href": "02-session-template.html#quote-of-the-day-and-leader-profile-5-min",
+    "objectID": "02-session-template.html#discussant-block-15-min",
+    "href": "02-session-template.html#discussant-block-15-min",
     "title": "Session Template",
-    "section": "Quote of the Day and Leader Profile (5 min)",
-    "text": "Quote of the Day and Leader Profile (5 min)\nOne quote and one leader, together in five minutes. Keep the profile to three or four sentences: who they are, the decision or moment worth knowing, what it cost them.\nRotate who presents. A student leader takes this block, signs up a week ahead, and picks both the quote and the profile. The only constraint is that the pair should connect to the week’s principle.",
-    "crumbs": [
-      "Course Information",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Session Template</span>"
-    ]
-  },
-  {
-    "objectID": "02-session-template.html#leadership-principle-10-min",
-    "href": "02-session-template.html#leadership-principle-10-min",
-    "title": "Session Template",
-    "section": "Leadership Principle (10 min)",
-    "text": "Leadership Principle (10 min)\nOne principle, taught. The operating model names three skill areas to draw from: influence, conflict, and managing up. Guest speakers and case discussions fill this block too.\nTen minutes buys one idea, not three. State the principle, give one example of it working, give one example of it failing, then move to Drills.",
+    "section": "Discussant Block (15 min)",
+    "text": "Discussant Block (15 min)\nStudent led, faculty curated. You assign the reading, the quote, and the scripture. Two or three discussants deliver them, add a leader profile of their own choosing, and run the discussion. Everyone takes one turn across the semester.\nThe reading carries the week’s leadership principle, drawn from the three skill areas the operating model names: influence, conflict, and managing up. Guest speakers and case discussions take this block on the weeks they appear.\nKeep the quote, scripture, and profile to five minutes together. The quote and scripture are always a pair, both speaking to the same principle from two directions. The profile is three or four sentences: who they are, the decision worth knowing, what it cost them.\nRun a discussion, do not give a presentation. Fifteen minutes split two or three ways is not enough to summarize a reading, and a summary is not what the block is for. Three standing questions carry every week, grounded in the golden mean: name the virtue, name where it becomes a vice, name when the quote stops applying. Discussants add a fourth of their own. If the discussants are the only ones talking, it has failed.\nDiscussants circulate a one-page brief by Tuesday 11:59 PM so someone who did not finish the reading can still take part.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Session Template</span>"
@@ -257,7 +290,7 @@
     "href": "02-session-template.html#weekly-prep-checklist",
     "title": "Session Template",
     "section": "Weekly Prep Checklist",
-    "text": "Weekly Prep Checklist\n\nAnnouncements collected from club leaders by Thursday\nQuote and Leader Profile presenter confirmed\nPrinciple chosen, with one success example and one failure example\nFollow-along built and run once yourself, with the starting prompt written down\nPractice: what each club is working on, so roaming has a target\nSarah and Luke’s mode set for the week: roaming or broken out",
+    "text": "Weekly Prep Checklist\n\nAnnouncements pulled from Monday’s presidency roll-ups\nReading, quote, and scripture assigned well ahead of the discussants’ prep\nDiscussants confirmed, brief circulated Tuesday\nPrinciple the reading carries is clear to you, with one success and one failure example in reserve\nFollow-along built and run once yourself, with the starting prompt written down\nPractice: what each club is working on, so roaming has a target\nSarah and Luke’s mode set for the week: roaming or broken out",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Session Template</span>"
@@ -268,7 +301,7 @@
     "href": "02-session-template.html#blank-session-plan",
     "title": "Session Template",
     "section": "Blank Session Plan",
-    "text": "Blank Session Plan\nCopy this for each week.\nSession #__  |  Date: ______\n\nANNOUNCEMENTS (5)\n-\n\nQUOTE + LEADER PROFILE (5)\nPresenter:\nQuote:\nLeader:\n\nPRINCIPLE (10)\nPrinciple:\nWorks:\nFails:\n\nDRILLS (10) - follow along\nWhat we build:\nTool:\nStarting prompt:\n\nPRACTICE (45) - they work, we roam\nWhat each club is working on:\nSarah:  [ ] roaming  [ ] breakout with ______\nLuke:   [ ] roaming  [ ] breakout with ______\nUpdates / coordination handled in: [ ] Announcements  [ ] first 10 of Practice",
+    "text": "Blank Session Plan\nCopy this for each week.\nSession #__  |  Date: ______\n\nANNOUNCEMENTS (5)\n-\n\nDISCUSSANT BLOCK (15)\nDiscussants:\nReading:\nPrinciple it carries:\nQuote:\nScripture:\nPrinciple they share:\nLeader profile:\nOwn fourth question:\nBackup if the room is quiet:\n\nDRILLS (10) - follow along\nWhat we build:\nTool:\nStarting prompt:\n\nPRACTICE (45) - they work, we roam\nWhat each club is working on:\nSarah:  [ ] roaming  [ ] breakout with ______\nLuke:   [ ] roaming  [ ] breakout with ______\nUpdates / coordination handled in: [ ] Announcements  [ ] first 10 of Practice",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Session Template</span>"
@@ -290,7 +323,7 @@
     "href": "03-weekly-updates.html#who-sends-to-whom",
     "title": "Weekly Updates",
     "section": "Who Sends to Whom",
-    "text": "Who Sends to Whom\n\n\n\n\n\n\n\n\nYou are\nYou send to\nCC\n\n\n\n\nProgram co-presidents\nScott Murff\nstrategy-program@byu.edu\n\n\nVP Events, VP Marketing\nProgram co-presidents\nstrategy-program@byu.edu\n\n\nMCA co-presidents\nSoraya Cullimore\nstrategy-program@byu.edu, David Bryce\n\n\nPMA co-presidents\nSoraya Cullimore\nstrategy-program@byu.edu, Scott Murff\n\n\nCSA co-presidents\nSoraya Cullimore\nstrategy-program@byu.edu, Ben Lewis\n\n\nClub VPs\nTheir own co-presidents\nstrategy-program@byu.edu\n\n\nWSA co-presidents\nLena Lizunova\nstrategy-program@byu.edu\n\n\nWSA VPs\nTheir own co-presidents\nstrategy-program@byu.edu\n\n\nVP Alumni\nSoraya Cullimore\nstrategy-program@byu.edu\n\n\nVP Student Development\nLisa Giguere\nstrategy-program@byu.edu\n\n\n\nAddresses are not listed here. Everyone named is in the BYU directory, so look them up there. The one address you need verbatim is strategy-program@byu.edu.\nClub co-presidents send to Soraya Cullimore as Business Career Director and copy their own faculty advisor, so the advisor sees the same week the career office sees. WSA is the exception: it is an affinity group rather than a career club, so its co-presidents report directly to Lena Lizunova.\n\nIf you hold two roles\nSome leaders serve in two places at once, for example a program VP who is also a club VP. Your choice how to handle it:\n\nOne email addressed to both leaders, with the body split by role so each of them can find their part, or\nTwo separate emails, one to each leader, each covering only that role.\n\nEither way it counts as one update for the week. CC strategy-program@byu.edu on whatever you send.\nIf you receive updates from people below you, read them before you write your own. Your update should reflect what your team did, not only what you personally touched.",
+    "text": "Who Sends to Whom\n\n\n\n\n\n\n\n\nYou are\nYou send to\nCC\n\n\n\n\nProgram co-presidents\nScott Murff\nstrategy-program@byu.edu\n\n\nVP Events, VP Marketing, VP Alumni, VP Student Development\nProgram co-presidents\nstrategy-program@byu.edu\n\n\nMCA co-presidents\nSoraya Cullimore\nstrategy-program@byu.edu, David Bryce\n\n\nPMA co-presidents\nSoraya Cullimore\nstrategy-program@byu.edu, Scott Murff\n\n\nCSA co-presidents\nSoraya Cullimore\nstrategy-program@byu.edu, Ben Lewis\n\n\nClub VPs\nTheir own co-presidents\nstrategy-program@byu.edu\n\n\nWSA co-presidents\nLena Lizunova\nstrategy-program@byu.edu\n\n\nWSA VPs\nTheir own co-presidents\nstrategy-program@byu.edu\n\n\n\nAddresses are not listed here. Everyone named is in the BYU directory, so look them up there. The one address you need verbatim is strategy-program@byu.edu.\nClub co-presidents send to Soraya Cullimore as Business Career Director and copy their own faculty advisor, so the advisor sees the same week the career office sees. WSA is the exception: it is an affinity group rather than a career club, so its co-presidents report directly to Lena Lizunova.\n\nIf you hold two roles\nSome leaders serve in two places at once, for example a program VP who is also a club VP. Your choice how to handle it:\n\nOne email addressed to both leaders, with the body split by role so each of them can find their part, or\nTwo separate emails, one to each leader, each covering only that role.\n\nEither way it counts as one update for the week. CC strategy-program@byu.edu on whatever you send. If your two roles sit in different tiers, use the later of the two deadlines.\nIf you receive updates from people below you, read them before you write your own. Your update should reflect what your team did, not only what you personally touched.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Weekly Updates</span>"
@@ -301,7 +334,7 @@
     "href": "03-weekly-updates.html#deadline",
     "title": "Weekly Updates",
     "section": "Deadline",
-    "text": "Deadline\nThursday by 11:59 PM\nThursday rather than the weekend, so every update is in hand before Friday’s session. What you write becomes the Announcements block: if there is an event, a deadline, or a problem the room should know about, the update is how it gets there.\n\nFirst update due: Thu, Sep 10, ahead of session 2\nFinal update due: Thu, Dec 3, ahead of session 13\nNo update due Thu, Nov 26. Thanksgiving, and there is no class Nov 27.\nTotal updates: 12\n\nSession 1 on Sep 4 is the kickoff, so there is no update before it. Every session after that has one.",
+    "text": "Deadline\nTwo deadlines, because the updates cascade. VPs write first so their co-presidents have something to roll up.\n\n\n\n\n\n\n\n\nYou are\nDue\nCovers\n\n\n\n\nVPs\nFriday, 11:59 PM\nThe week just finished, including that day’s session\n\n\nPresidencies\nMonday, 11:59 PM\nYour own week plus what your VPs reported\n\n\n\nFriday night for VPs is hours after class, while what you committed to in the Practice block is still fresh. Many people write it in the twenty minutes after the session ends.\nMonday for presidencies gives you a full weekend gap to read five or six updates and write one that speaks for the club. It also means Soraya, Lena, and Scott start the week with eight summaries rather than 27 scattered emails, with the whole week ahead to unblock anything flagged.\nNothing here requires working on a Saturday or a Sunday.\n\nFirst VP update: Fri, Sep 11. First presidency roll-up: Mon, Sep 14.\nLast VP update: Fri, Dec 4. Last presidency roll-up: Mon, Dec 7.\nNo update the week of Thanksgiving. There is no class Nov 27.\nTotal: 12 each.\n\nSession 1 on Sep 4 is the kickoff, so no update follows it.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Weekly Updates</span>"
@@ -334,7 +367,7 @@
     "href": "03-weekly-updates.html#grading",
     "title": "Weekly Updates",
     "section": "Grading",
-    "text": "Grading\nTwelve updates, graded individually. Points and category weight are set on the Assessments page.\n\n\n\nStatus\nCredit\n\n\n\n\nOn time, Thursday by 11:59 PM\nFull\n\n\nLate, by Friday 12:30 PM (start of class)\nHalf\n\n\nAfter class starts\nNone\n\n\n\nThe late cutoff is the start of class because an update that arrives after the session has already missed its second job, which is feeding the room.\nMissing the CC means the update cannot be tracked, and an untracked update does not count. Add strategy-program@byu.edu to your contacts in week one.",
+    "text": "Grading\nTwelve updates, graded individually. The category weight is on the Assessments page.\n\n\n\nYou are\nFull credit\nHalf credit through\nNo credit\n\n\n\n\nVPs\nFri, 11:59 PM\nMon, 11:59 PM\nAfter Monday\n\n\nPresidencies\nMon, 11:59 PM\nWed, 11:59 PM\nAfter Wednesday\n\n\n\nEach late window closes at the point the update stops being useful. A VP update that arrives after Monday night missed the roll-up it was meant to feed. A presidency update that arrives after Wednesday leaves nobody time to act on a blocker before the week ends.\nMissing the CC means the update cannot be tracked, and an untracked update does not count. Add strategy-program@byu.edu to your contacts in week one.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Weekly Updates</span>"
@@ -352,6 +385,303 @@
     ]
   },
   {
+    "objectID": "04-peer-feedback.html",
+    "href": "04-peer-feedback.html",
+    "title": "Feedback Conversations",
+    "section": "",
+    "text": "Feedback Conversations\nTwice a semester you sit down with the person you report to and have a real conversation about how the work is going, in both directions. Then each of you submits a short reflection saying it happened and what you took from it.\nThere is no survey and no rating form. Filling out a scored questionnaire about someone you see every week is awkward, and it produces a document instead of a conversation. The conversation is the point. Learning to give a colleague a specific, useful, uncomfortable piece of feedback in person is the single most transferable skill in this course.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Feedback Conversations</span>"
+    ]
+  },
+  {
+    "objectID": "04-peer-feedback.html#what-is-graded",
+    "href": "04-peer-feedback.html#what-is-graded",
+    "title": "Feedback Conversations",
+    "section": "What Is Graded",
+    "text": "What Is Graded\nThe reflection, not the feedback. You get credit for having the conversation and submitting your reflection. Nothing anyone says about you affects your grade, in either direction.\nThat is deliberate. If the feedback you received moved your grade, everyone would learn to say pleasant things, and the instrument would be worth nothing. It also keeps the course fair across employees and volunteers: a conversation costs the same thirty minutes whether you are paid for nine hours a week or volunteering for four.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Feedback Conversations</span>"
+    ]
+  },
+  {
+    "objectID": "04-peer-feedback.html#who-talks-to-whom",
+    "href": "04-peer-feedback.html#who-talks-to-whom",
+    "title": "Feedback Conversations",
+    "section": "Who Talks to Whom",
+    "text": "Who Talks to Whom\nThe same pairing as the weekly updates. You already send this person an update every week, so they have twelve weeks of evidence and you have nothing to explain from scratch.\n\n\n\n\n\n\n\nYou are\nYou meet with\n\n\n\n\nClub VPs\nTheir own co-presidents\n\n\nClub co-presidents\nTheir co-president, and Soraya Cullimore or Lena Lizunova\n\n\nProgram VPs\nThe program co-presidents\n\n\nProgram co-presidents\nScott Murff, and each other\n\n\n\nCo-president pairs meet with each other in the same round. You two have more visibility into each other’s work than anyone else in the program, and no form would capture it.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Feedback Conversations</span>"
+    ]
+  },
+  {
+    "objectID": "04-peer-feedback.html#the-rounds",
+    "href": "04-peer-feedback.html#the-rounds",
+    "title": "Feedback Conversations",
+    "section": "The Rounds",
+    "text": "The Rounds\n\n\n\n\n\n\n\n\n\nRound\nConversations held\nReflection due\nPurpose\n\n\n\n\nMidterm\nOct 5 to Oct 16\nFri, Oct 16, 11:59 PM\nDevelopmental. Time to change something\n\n\nFinal\nNov 17 to Dec 4\nFri, Dec 4, 11:59 PM\nClosing the loop on what changed\n\n\n\nSchedule the conversation yourself. If a pair has not met by the Friday a round closes, use that session’s Practice block.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Feedback Conversations</span>"
+    ]
+  },
+  {
+    "objectID": "04-peer-feedback.html#how-the-conversation-goes",
+    "href": "04-peer-feedback.html#how-the-conversation-goes",
+    "title": "Feedback Conversations",
+    "section": "How the Conversation Goes",
+    "text": "How the Conversation Goes\nThirty minutes, both directions. The leader goes first, then asks for feedback on their own leadership. A conversation where only one person hears anything is a performance review, not a feedback conversation.\nStructure:\n\nStrengths. What is working. Be specific enough that they know which behavior to keep.\nOne thing to work on. Not three. One, chosen because it would make the most difference.\nSupport. What you can do to help.\nTurn it around. The person who spoke first now asks: what should I be doing differently?\n\nThe question to ask, in both directions: which way did I miss, too little or too much? Every principle has two failure modes, so “you were not courageous enough” and “you fought for ego” are different corrections. Directional is far easier to answer than a rating, and it is the only kind of answer you can act on. See Principles.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Feedback Conversations</span>"
+    ]
+  },
+  {
+    "objectID": "04-peer-feedback.html#what-to-talk-about",
+    "href": "04-peer-feedback.html#what-to-talk-about",
+    "title": "Feedback Conversations",
+    "section": "What to Talk About",
+    "text": "What to Talk About\nFour dimensions, the same ones used across the strategy program. The Principles page is the other half of that vocabulary, and either one works as an agenda.\nOwnership. Whether they drive the work.\n\n\n\n\n\n\n\nWhere they might be\nWhat it looks like\n\n\n\n\nEarly\nWaits to be told. Work stops when the next step is unclear. Blockers surface at the deadline\n\n\nSolid\nOwns a defined piece and finishes it. Raises blockers early. Still needs the plan handed to them\n\n\nStrong\nOwns their area end to end and pulls others along. Reprioritizes when things change, and what comes back is better than what was asked for\n\n\n\nCollaboration. Whether people want them on their team.\n\n\n\n\n\n\n\nWhere they might be\nWhat it looks like\n\n\n\n\nEarly\nWorks alone and the team finds out late. Takes feedback as criticism, or agrees and changes nothing\n\n\nSolid\nReliable teammate. Reviews others’ work when asked, shares context, acts on feedback next time\n\n\nStrong\nRaises the standard of the whole team. Handles disagreement without it becoming personal, and changes position publicly when someone else is right\n\n\n\nCommunication. The artifacts: updates, emails, decks, announcements.\n\n\n\n\n\n\n\nWhere they might be\nWhat it looks like\n\n\n\n\nEarly\nUpdates are late or absent. The reader has to ask what happened\n\n\nSolid\nAnswer first, support underneath. Someone reading the first line knows the state of the work\n\n\nStrong\nWrites for the specific reader. Produces the thing the team reuses\n\n\n\nYour twelve weekly updates are the evidence here. Pull them up during the conversation.\nStakeholder Presence. How they show up in front of someone senior or outside the club: recruiters, alumni, firm contacts, faculty, students from other majors.\n\n\n\n\n\n\n\nWhere they might be\nWhat it looks like\n\n\n\n\nEarly\nAvoids the contact. Silent, or speaks and creates confusion someone else repairs\n\n\nSolid\nPrepared and credible on their own work. Does not yet steer the conversation\n\n\nStrong\nThe firm contact asks for this person by name. Surfaces a risk before anyone else finds it\n\n\n\nNobody is strong on all four. The useful conversation is about one of them.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Feedback Conversations</span>"
+    ]
+  },
+  {
+    "objectID": "04-peer-feedback.html#the-reflection",
+    "href": "04-peer-feedback.html#the-reflection",
+    "title": "Feedback Conversations",
+    "section": "The Reflection",
+    "text": "The Reflection\nShort. Four things, submitted by each person independently:\n\nWho you met with and when\nThe one thing you are working on next\nOne thing you committed to as a result\nOne thing you asked them to do differently\n\nWrite about yourself, not about them. This is not a place to record what someone else is bad at. If something came up that needs more than a conversation, bring it to Scott, Soraya, or your faculty advisor directly. It does not travel through a reflection.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Feedback Conversations</span>"
+    ]
+  },
+  {
+    "objectID": "05-discussant.html",
+    "href": "05-discussant.html",
+    "title": "Being a Discussant",
+    "section": "",
+    "text": "Being a Discussant\nOnce during the semester you and one or two others own the front of the room for fifteen minutes.\nThe reading, the quote, and the scripture are assigned. You do not choose them. What you bring is the leader profile, one question of your own, and the ability to get twenty-six people talking.\nEveryone takes exactly one turn. Twenty-seven leaders, twelve sessions, two or three discussants a week.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Being a Discussant</span>"
+    ]
+  },
+  {
+    "objectID": "05-discussant.html#the-job-in-one-sentence",
+    "href": "05-discussant.html#the-job-in-one-sentence",
+    "title": "Being a Discussant",
+    "section": "The Job in One Sentence",
+    "text": "The Job in One Sentence\nGet twenty-six busy people to think out loud about one idea for ten minutes.\nThat is harder than presenting and it is a different skill. Presenting is something you can do alone in a room. Running a discussion means the other people have to talk, which means your preparation is mostly about them, not about you.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Being a Discussant</span>"
+    ]
+  },
+  {
+    "objectID": "05-discussant.html#what-you-actually-do",
+    "href": "05-discussant.html#what-you-actually-do",
+    "title": "Being a Discussant",
+    "section": "What You Actually Do",
+    "text": "What You Actually Do\nWeek one: sign up. Pick a session. The reading for each session is already assigned, so you are choosing a date and a topic together.\nTwo weeks out: meet your co-discussants. Fifteen minutes on a call is enough. Decide who takes the quote and scripture, who takes the leader profile, and who opens the discussion. Three of your questions are already written for you. Agree on the fourth.\nOne week out: read it properly. Not a skim. You need to know what the reading argues, what it gets wrong, and what it would mean for someone running a club at BYU. Bring an opinion.\nTuesday, 11:59 PM: circulate the brief. One page, to the whole class. See below.\nFriday, 12:35: run it.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Being a Discussant</span>"
+    ]
+  },
+  {
+    "objectID": "05-discussant.html#the-one-page-brief",
+    "href": "05-discussant.html#the-one-page-brief",
+    "title": "Being a Discussant",
+    "section": "The One-Page Brief",
+    "text": "The One-Page Brief\nOne page. Not two. Sent to the class by Tuesday 11:59 PM so people have three days.\nFive parts:\n\nThe quote and the scripture, printed, and what you think they share\nThe reading, with a link and an honest time estimate\nWhat it argues, in three or four sentences\nWhy it matters here. One paragraph connecting it to something a club leader in this program actually faces\nYour own question, the fourth one. Anything you are curious about. Printed, so people can think about it before Friday\n\nThe brief exists so that someone who did not finish the reading can still take part. That is not a loophole, it is the design. Twenty-seven club leaders in October will not all finish every reading, and a discussion that only works if everyone did is a discussion that fails half the time.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Being a Discussant</span>"
+    ]
+  },
+  {
+    "objectID": "05-discussant.html#the-fifteen-minutes",
+    "href": "05-discussant.html#the-fifteen-minutes",
+    "title": "Being a Discussant",
+    "section": "The Fifteen Minutes",
+    "text": "The Fifteen Minutes\n\n\n\nMinutes\nWhat\n\n\n\n\n3\nQuote and scripture\n\n\n2\nLeader profile\n\n\n10\nDiscussion\n\n\n\nThe quote and the scripture. Assigned, always as a pair, both speaking to the week’s principle from two directions.\nYour job is not to find them, it is to land them. Read both out loud, say in one sentence what you think they share, and stop. Do not explain either for two minutes.\nSometimes the pair will not say the identical thing. A quote about decisiveness beside a scripture about patience is not a mistake; it is the mean, put in the room before anyone has argued about it. If you notice the tension, say so. That is usually the best sentence anyone says in the first three minutes.\nThe leader profile. This one is yours to choose. Three or four sentences: who they are, the decision or moment worth knowing, what it cost them. A real person, living or dead, ideally one nobody in the room would have picked. Pick someone who fits the week’s principle, including someone who got it wrong.\nThe discussion. Open with a question, not a summary. Everyone read the brief; they do not need you to recap it.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Being a Discussant</span>"
+    ]
+  },
+  {
+    "objectID": "05-discussant.html#the-three-standing-questions",
+    "href": "05-discussant.html#the-three-standing-questions",
+    "title": "Being a Discussant",
+    "section": "The Three Standing Questions",
+    "text": "The Three Standing Questions\nEvery discussion in this course asks the same three questions. They do not change week to week, and you do not have to invent them.\n\nWhat about this leader or this reading inspires you? Name the principle. Not “they were great,” but which specific quality, and what it looked like in practice. The Principles page has fourteen to choose from.\nWhere does that principle become a vice? Push it too far and every strength turns into something else. Name what it becomes, and if you can, name a time you have seen the excess in this program.\nUnder what conditions does the quote stop applying? When would you have acted differently than this leader did, and why?\n\nThen bring one question of your own. Anything you are curious about: something in the reading, something it made you think about, something happening in the program right now. Three questions are standardized so you are not starting from a blank page. The fourth is yours.\nYou will not get through all four in ten minutes. That is expected. Two good ones beat four rushed ones.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Being a Discussant</span>"
+    ]
+  },
+  {
+    "objectID": "05-discussant.html#why-these-three-questions",
+    "href": "05-discussant.html#why-these-three-questions",
+    "title": "Being a Discussant",
+    "section": "Why These Three Questions",
+    "text": "Why These Three Questions\nThey come from the golden mean, the framework the Principles page lays out.\nAristotle argued that a virtue is not a feeling or a single act but a settled disposition to choose well, and that it sits in a mean between two failure modes: one of doing too little and one of doing too much. Courage is not the opposite of cowardice; it sits between cowardice and recklessness. There are two ways to miss, not one.\nThat is why leadership advice so often contradicts itself. “Be decisive” and “gather input” are not opposing camps, they are the two ways of missing the same mean. A co-president who never decides is halting. One who decides before anyone has spoken is impulsive. The question is never which advice is right, it is where the mean sits for this decision, this week, with these people.\nMost leadership quotes are a maximum dressed up as a truth. Question 2 is how you find the edge, and question 3 is how you find the conditions where the edge matters.\nUse the principles table. Naming the principle is the whole first move, and “what is the excess version of this” is much easier to answer once it has a name. All fourteen are on the Principles page with both failure modes already written.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Being a Discussant</span>"
+    ]
+  },
+  {
+    "objectID": "05-discussant.html#how-to-run-a-discussion",
+    "href": "05-discussant.html#how-to-run-a-discussion",
+    "title": "Being a Discussant",
+    "section": "How to Run a Discussion",
+    "text": "How to Run a Discussion\nSix things that decide whether this works:\nOpen with your hardest question, not your easiest. A warm-up question gets warm-up answers and you have ten minutes.\nMake the fourth one arguable. The three standing questions already are. “What did you think of the reading?” produces silence. “The author says you should never escalate to your advisor without telling your co-president first. When is that wrong?” produces an argument. Ask what you actually want to know, not what sounds like a discussion question.\nCount to ten in your head. The silence after a question feels much longer to you than to anyone else. Almost every discussion that dies is killed by the facilitator answering their own question at second four.\nCall on people by name. You know all twenty-six of them. Use it. “You ran the case workshop last week, does this match what happened?” beats asking the room in general.\nDo not answer your own questions. Your opinion is the least useful one in the room during your fifteen minutes.\nFollow the fire. If the room catches on question one, ride it and drop the rest. Getting through all four is not the goal.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Being a Discussant</span>"
+    ]
+  },
+  {
+    "objectID": "05-discussant.html#grading",
+    "href": "05-discussant.html#grading",
+    "title": "Being a Discussant",
+    "section": "Grading",
+    "text": "Grading\nFifteen points, 15% of the course grade.\n\n\n\n\n\n\n\n\nPoints\n\n\n\n\nBrief circulated on time, one page, five parts present\n5\n\n\nYour fourth question is a real question, one you actually want answered\n5\n\n\nYou ran a discussion rather than gave a presentation\n5\n\n\n\nThe third one is the whole point. If you and your co-discussants did most of the talking, that is the section that loses points, no matter how well prepared you were.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Being a Discussant</span>"
+    ]
+  },
+  {
+    "objectID": "05-discussant.html#if-you-cannot-make-your-week",
+    "href": "05-discussant.html#if-you-cannot-make-your-week",
+    "title": "Being a Discussant",
+    "section": "If You Cannot Make Your Week",
+    "text": "If You Cannot Make Your Week\nSwap with someone. Arrange it in advance and tell Scott. Do not spend your free absence on the one session where twenty-six people are counting on you.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Being a Discussant</span>"
+    ]
+  },
+  {
+    "objectID": "06-principles.html",
+    "href": "06-principles.html",
+    "title": "Principles",
+    "section": "",
+    "text": "Principles\nThese are the principles of the strategy program. The same fourteen apply across the program’s courses and clubs, here applied to running a club.\nEach principle carries a scripture reference, collected at the end of this page.\nThe sources they draw on, following Brigham Young’s admonition to gather up all the good and true principles wherever we find them: the BYU Marriott mission and values, the standard works, Christlike Attributes from Preach My Gospel, Amazon’s leadership principles, Bridgewater’s original philosophy, McKinsey’s purpose, mission and values, John Wooden’s Pyramid of Success, and Aristotle, Nicomachean Ethics, Book II.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Principles</span>"
+    ]
+  },
+  {
+    "objectID": "06-principles.html#why-they-are-written-this-way",
+    "href": "06-principles.html#why-they-are-written-this-way",
+    "title": "Principles",
+    "section": "Why They Are Written This Way",
+    "text": "Why They Are Written This Way\nMost codes of conduct list principles to be maximized: be excellent, be truthful, be bold. Stated that way they have two problems.\nThe first is that almost any good quality can be taken to excess. Truthfulness can overshoot into cruelty. Excellence can overshoot into perfectionism, or into standards that humiliate people. Initiative can overshoot into recklessness. A list of maxims gives you no way to say “you are doing too much of a good thing,” so the only correction on offer is to abandon the principle, which nobody wants.\nThe second is that two good principles collide. Speed collides with rigor. Candor collides with charity. Excellence collides with a deadline.\nAristotle solved both with the golden mean. Every good quality of character sits between two failure modes, one of doing too little and one of doing too much. Courage is not the opposite of cowardice; it sits between cowardice and recklessness. Generosity sits between stinginess and waste. The failure is never the quality itself. It is having too little or too much of it, at the wrong moment, toward the wrong person, for the wrong reason.\nThe mean is not fixed by a formula. It is found by judgment, and judgment is built by practice. Each principle below is written with both of its failures named, because you cannot aim for the mean if you do not know the extremes.\nThese are aspirational. Everyone misses, often, in both directions. We keep striving, and over time develop true wisdom.\n\nSuccess is peace of mind which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable.\nJohn Wooden",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Principles</span>"
+    ]
+  },
+  {
+    "objectID": "06-principles.html#hold-to-the-truth-and-use-it-well",
+    "href": "06-principles.html#hold-to-the-truth-and-use-it-well",
+    "title": "Principles",
+    "section": "1. Hold to the truth, and use it well",
+    "text": "1. Hold to the truth, and use it well\n\n\n\n\n\n\n\n\n\nPrinciple\nToo little\nThe golden mean\nToo much\n\n\n\n\nAct with integrity\nDeceitful\nStates it plainly, including the part that costs something\nSelf-righteous\n\n\nBe discerning\nRepeats what was said in confidence. Says the true thing that only wounds\nTells the person who needs it, in the way they can receive it\nCalls it discretion when it is avoidance\n\n\nBe courageous\nGoes along\nChallenges, then commits\nFights for ego",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Principles</span>"
+    ]
+  },
+  {
+    "objectID": "06-principles.html#think-hard-and-stay-teachable",
+    "href": "06-principles.html#think-hard-and-stay-teachable",
+    "title": "Principles",
+    "section": "2. Think hard and stay teachable",
+    "text": "2. Think hard and stay teachable\n\n\n\n\n\n\n\n\n\nPrinciple\nToo little\nThe golden mean\nToo much\n\n\n\n\nBe curious\nAccepts the brief as given. Stops at the first answer\nAsks the question behind the question\nChases the interesting question instead of the one that matters\n\n\nBe rigorous\nAccepts what sounds right. Trusts the output without checking the reasoning\nReasons from first principles\nRederives what is already settled. Demands proof past the point the decision needs\n\n\nChoose humility\nDefends the position instead of testing it. Ties ego to being right\nAsks what they missed, then changes\nHedges. Defers when they know better\n\n\nSeek personal improvement\nHears the feedback and files it\nAsks for the critique, then acts on it\nWorks on themselves instead of the work. Makes every review about their growth",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Principles</span>"
+    ]
+  },
+  {
+    "objectID": "06-principles.html#do-great-work",
+    "href": "06-principles.html#do-great-work",
+    "title": "Principles",
+    "section": "3. Do great work",
+    "text": "3. Do great work\n\n\n\n\n\n\n\n\n\nPrinciple\nToo little\nThe golden mean\nToo much\n\n\n\n\nAct in faith\nWaits for certainty. Needs the risk gone before starting\nMoves on incomplete information\nSkips the preparation and calls it faith\n\n\nStrive for excellence\nSettles for what passes. Mistakes activity for achievement\nRaises the bar, then clears it\nPolishes past the point of value. Wields the standard to shame\n\n\nDemonstrate high agency\nWaits to be told. Explains why it was not theirs\nSees the gap and closes it\nTakes what was not theirs to take. Carries it alone instead of raising it\n\n\nShow patience\nForces the answer before it is ready. Quits when it gets hard\nPresses where it can move, waits where it cannot\nWaits and calls it patience. Tolerates what should have been escalated",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Principles</span>"
+    ]
+  },
+  {
+    "objectID": "06-principles.html#make-each-other-better",
+    "href": "06-principles.html#make-each-other-better",
+    "title": "Principles",
+    "section": "4. Make each other better",
+    "text": "4. Make each other better\n\n\n\n\n\n\n\n\n\nPrinciple\nToo little\nThe golden mean\nToo much\n\n\n\n\nRespect others\nTalks past people. Dismisses the junior voice\nListens before answering\nTrades candor for comfort. Plays favorites\n\n\nForgive quickly\nKeeps score. Lets it color the next interaction\nSays it once, then lets it go\nForgives before anything is named, so the pattern repeats\n\n\nDevelop others\nKeeps what they know. Treats a teammate as a pair of hands\nHands it over and explains the why\nDoes it for them instead of with them",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Principles</span>"
+    ]
+  },
+  {
+    "objectID": "06-principles.html#for-some-things-there-is-no-golden-mean",
+    "href": "06-principles.html#for-some-things-there-is-no-golden-mean",
+    "title": "Principles",
+    "section": "For Some Things There Is No Golden Mean",
+    "text": "For Some Things There Is No Golden Mean\nAlmost everything above is a matter of degree. A few things are not. Aristotle is explicit that the doctrine has limits: some acts “imply by their names that they are themselves bad,” and of those “it is not possible, then, ever to be right with regard to them.” There is no correct amount of them, so they are not on the scale.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Principles</span>"
+    ]
+  },
+  {
+    "objectID": "06-principles.html#when-principles-collide",
+    "href": "06-principles.html#when-principles-collide",
+    "title": "Principles",
+    "section": "When Principles Collide",
+    "text": "When Principles Collide\nThey will. Rigor says check it again; the deadline says ship. Courage says say it now; discernment says not in this room, not in front of these people. Excellence says raise the bar; patience says this is not the week.\nThere is no rule that decides. Aristotle says the judgment “rests with perception,” meaning the read of a person who is actually present and has done this before. That is why the answer to a hard call is usually a conversation rather than a lookup.\nThree practical aids.\nName the collision out loud. “I think rigor and the deadline are fighting here” is a faster route to a decision than arguing the merits as though only one principle were in play.\nCorrect against your own pull. Aiming straight at the mean undershoots, because your own habit is already bending you. Learn which way you personally miss, then overcorrect. “We shall get into the intermediate state by drawing well away from error, as people do in straightening sticks that are bent.”\nThe red face test. When a situation is genuinely ambiguous, ask whether you could explain the decision to a respected leader without being red in the face. If not, do not do it.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Principles</span>"
+    ]
+  },
+  {
+    "objectID": "06-principles.html#which-way-did-i-miss",
+    "href": "06-principles.html#which-way-did-i-miss",
+    "title": "Principles",
+    "section": "Which Way Did I Miss?",
+    "text": "Which Way Did I Miss?\nThe most useful question you can ask a peer, given how this page is written, is directional: which way did I miss, too little or too much?\nThat is far easier for a teammate to answer than a rating, and it is the only kind of answer you can act on. Use it in your feedback conversations, and use it after any meeting or event you ran.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Principles</span>"
+    ]
+  },
+  {
+    "objectID": "06-principles.html#scripture-references",
+    "href": "06-principles.html#scripture-references",
+    "title": "Principles",
+    "section": "Scripture References",
+    "text": "Scripture References\nEach entry names the commitment or principle it belongs to, so this section can be read on its own. These are not proof texts. They are the older statement of the same idea, and in several cases they name both failures at once, which is the whole reason this page is written the way it is.\n\nCommitment 1. Hold to the truth, and use it well\nEphesians 4:15 But speaking the truth in love, may grow up into him in all things, which is the head, even Christ.\nDoctrine and Covenants 93:24 And truth is knowledge of things as they are, and as they were, and as they are to come.\nAct with integrity\nAlma 53:20 And they were all young men, and they were exceedingly valiant for courage, and also for strength and activity; but behold, this was not all, they were men who were true at all times in whatsoever thing they were entrusted.\nProverbs 11:3 The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.\nDoctrine and Covenants 124:15 And again, verily I say unto you, blessed is my servant Hyrum Smith; for I, the Lord, love him because of the integrity of his heart, and because he loveth that which is right before me, saith the Lord.\nBe discerning\nProverbs 11:13 A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.\nProverbs 25:11 A word fitly spoken is like apples of gold in pictures of silver.\nBe courageous\nDoctrine and Covenants 121:43 Reproving betimes with sharpness, when moved upon by the Holy Ghost; and then showing forth afterwards an increase of love toward him whom thou hast reproved, lest he esteem thee to be his enemy.\nJoshua 1:9 Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.\n\n\nCommitment 2. Think hard and stay teachable\nDoctrine and Covenants 88:118 And as all have not faith, seek ye diligently and teach one another words of wisdom; yea, seek ye out of the best books words of wisdom; seek learning, even by study and also by faith.\nBe curious\nProverbs 18:15 The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.\n1 Nephi 10:19 For he that diligently seeketh shall find; and the mysteries of God shall be unfolded unto them, by the power of the Holy Ghost, as well in these times as in times of old, and as well in times of old as in times to come; wherefore, the course of the Lord is one eternal round.\nBe rigorous\nDoctrine and Covenants 9:8 But, behold, I say unto you, that you must study it out in your mind; then you must ask me if it be right, and if it is right I will cause that your bosom shall burn within you; therefore, you shall feel that it is right.\n1 Thessalonians 5:21 Prove all things; hold fast that which is good.\nChoose humility\nAlma 32:16 Therefore, blessed are they who humble themselves without being compelled to be humble; or rather, in other words, blessed is he that believeth in the word of God, and is baptized without stubbornness of heart, yea, without being brought to know the word, or even compelled to know, before they will believe.\nEther 12:27 And if men come unto me I will show unto them their weakness. I give unto men weakness that they may be humble; and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them.\nProverbs 11:2 When pride cometh, then cometh shame: but with the lowly is wisdom.\nSeek personal improvement\n2 Nephi 28:30 For behold, thus saith the Lord God: I will give unto the children of men line upon line, precept upon precept, here a little and there a little; and blessed are those who hearken unto my precepts, and lend an ear unto my counsel, for they shall learn wisdom; for unto him that receiveth I will give more; and from them that shall say, We have enough, from them shall be taken away even that which they have.\nDoctrine and Covenants 93:12-13 And I, John, saw that he received not of the fulness at the first, but received grace for grace; And he received not of the fulness at first, but continued from grace to grace, until he received a fulness.\n\n\nCommitment 3. Do great work\nEcclesiastes 9:10 Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.\nAct in faith\nEther 12:6 And now, I, Moroni, would speak somewhat concerning these things; I would show unto the world that faith is things which are hoped for and not seen; wherefore, dispute not because ye see not, for ye receive no witness until after the trial of your faith.\nJames 2:17 Even so faith, if it hath not works, is dead, being alone.\nStrive for excellence\nColossians 3:23 And whatsoever ye do, do it heartily, as to the Lord, and not unto men.\nDoctrine and Covenants 4:2 Therefore, O ye that embark in the service of God, see that ye serve him with all your heart, might, mind and strength, that ye may stand blameless before God at the last day.\nDemonstrate high agency\nDoctrine and Covenants 58:26-28 For behold, it is not meet that I should command in all things; for he that is compelled in all things, the same is a slothful and not a wise servant; wherefore he receiveth no reward. Verily I say, men should be anxiously engaged in a good cause, and do many things of their own free will, and bring to pass much righteousness; For the power is in them, wherein they are agents unto themselves. And inasmuch as men do good they shall in nowise lose their reward.\nShow patience\nMosiah 4:27 And see that all these things are done in wisdom and order; for it is not requisite that a man should run faster than he has strength. And again, it is expedient that he should be diligent, that thereby he might win the prize; therefore, all things must be done in order.\nDoctrine and Covenants 123:17 Therefore, dearly beloved brethren, let us cheerfully do all things that lie in our power; and then may we stand still, with the utmost assurance, to see the salvation of God, and for his arm to be revealed.\n\n\nCommitment 4. Make each other better\nDoctrine and Covenants 88:122 Appoint among yourselves a teacher, and let not all be spokesmen at once; but let one speak at a time and let all listen unto his sayings, that when all have spoken that all may be edified of all, and that every man may have an equal privilege.\nRespect others\nJames 1:19 Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath.\nActs 10:34 Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons.\nForgive quickly\nDoctrine and Covenants 64:9-10 Wherefore, I say unto you, that ye ought to forgive one another; for he that forgiveth not his brother his trespasses standeth condemned before the Lord; for there remaineth in him the greater sin. I, the Lord, will forgive whom I will forgive, but of you it is required to forgive all men.\nEphesians 4:32 And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.\nDevelop others\nLuke 22:32 But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.\nEphesians 4:12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Principles</span>"
+    ]
+  },
+  {
     "objectID": "90-resources.html",
     "href": "90-resources.html",
     "title": "Resources",
@@ -359,7 +689,7 @@
     "text": "Resources\n\nOperating Model, the structure this course coordinates\nLeadership roster spreadsheet: keep your presidency current as roles change\nReadings and guest speaker materials: to be added",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Resources</span>"
     ]
   }
 ]
