@@ -5,92 +5,113 @@ author: "Scott Murff"
 
 # Weekly Updates
 
-Each club sends one written update per week. It goes to Soraya Cullimore and is published on
-the Strategy Program website, so it serves two audiences at once: the person who supervises
-the co-president pairs, and the students across campus who want to know what the clubs are
-doing.
+Every student in the Lab sends a written end-of-week update to the person they report to,
+with `strategy-program@byu.edu` in CC.
 
-This is graded. It is the only deliverable in the course that produces a public artifact.
+That is the whole mechanism, and it is accountability all the way up the chain. A club VP
+reports to their co-presidents. Those co-presidents report to Soraya. The program
+co-presidents report to Scott. Nobody reports into a void, and nobody is left guessing what
+the people below them did this week.
 
-## Who Sends It
+The CC does two things: it gives the Strategy Program one place to track completion, and it
+means your leader is never the only person who knows you did the work.
 
-One update per club per week, sent by one of the two co-presidents. The pair alternates
-weeks, so each co-president writes six updates across the semester. WSA has a single
-president, who sends every week.
+## Who Sends to Whom
 
-| Club | Sent by |
-|---|---|
-| MCA | Co-presidents, alternating weeks |
-| PMA | Co-presidents, alternating weeks |
-| CSA | Co-presidents, alternating weeks |
-| WSA | President, weekly |
+| You are | You send to | CC |
+|---|---|---|
+| Program co-presidents | Scott Murff | strategy-program@byu.edu |
+| VP Events, VP Marketing | Program co-presidents | strategy-program@byu.edu |
+| MCA co-presidents | Soraya Cullimore | strategy-program@byu.edu, David Bryce |
+| PMA co-presidents | Soraya Cullimore | strategy-program@byu.edu, Scott Murff |
+| CSA co-presidents | Soraya Cullimore | strategy-program@byu.edu, Ben Lewis |
+| Club VPs | Their own co-presidents | strategy-program@byu.edu |
+| WSA co-presidents | Lena Lizunova | strategy-program@byu.edu |
+| WSA VPs | Their own co-presidents | strategy-program@byu.edu |
+| VP Alumni | Soraya Cullimore | strategy-program@byu.edu |
+| VP Student Development | Lisa Giguere | strategy-program@byu.edu |
 
-Decide your rotation in week one and keep it. A missed week counts against the club, not
-against whichever co-president happened to be up.
+Addresses are not listed here. Everyone named is in the BYU directory, so look them up
+there. The one address you need verbatim is `strategy-program@byu.edu`.
+
+Club co-presidents send to Soraya Cullimore as Business Career Director and copy their own
+faculty advisor, so the advisor sees the same week the career office sees. WSA is the
+exception: it is an affinity group rather than a career club, so its co-presidents report
+directly to Lena Lizunova.
+
+### If you hold two roles
+
+Some leaders serve in two places at once, for example a program VP who is also a club VP.
+Your choice how to handle it:
+
+- **One email** addressed to both leaders, with the body split by role so each of them can
+  find their part, or
+- **Two separate emails**, one to each leader, each covering only that role.
+
+Either way it counts as one update for the week. CC `strategy-program@byu.edu` on whatever
+you send.
+
+If you receive updates from people below you, read them before you write your own. Your
+update should reflect what your team did, not only what you personally touched.
 
 ## Deadline
 
 **Thursday by 11:59 PM**
 
-Thursday rather than the weekend, so the updates are in hand before Friday's session. What
-you write becomes the Announcements block: if your club has an event, a deadline, or a
-problem the room should know about, the update is how it gets there.
+Thursday rather than the weekend, so every update is in hand before Friday's session. What
+you write becomes the Announcements block: if there is an event, a deadline, or a problem the
+room should know about, the update is how it gets there.
 
 - First update due: Thu, Sep 10, ahead of session 2
 - Final update due: Thu, Dec 3, ahead of session 13
 - No update due Thu, Nov 26. Thanksgiving, and there is no class Nov 27.
-- Total updates per club: 12
+- Total updates: 12
 
 Session 1 on Sep 4 is the kickoff, so there is no update before it. Every session after that
 has one.
 
-## Recipients
-
-- **To:** Soraya Cullimore
-- **CC:** Scott Murff, your faculty advisor, your co-president
-- **Also:** submitted for publication on the Strategy Program website
-
-Write it knowing it will be public. Nothing goes in a weekly update that you would not want a
-prospective member, a recruiter, or a firm contact to read.
-
 ## Format
 
-Four sections. The first three mirror the APM Lab weekly update; the fourth exists because
-these clubs serve students, not a single manager.
+Three sections, the same ones used in the APM Lab internship. Keep it to one screen.
 
-**1. What we did this week [Required]**
+**1. What I did this week [Required]**
 
 - Completed events, meetings, outreach, and deliverables
 - Lead with outcomes, not activity. "42 students at the case workshop" beats "held a case
   workshop."
 - Include numbers when you have them: attendance, applications, offers, signups
 
-**2. What we are doing next week [Required]**
+**2. What I am doing next week [Required]**
 
-- Priorities and planned events, with owners
+- Priorities and planned work, with dates
 - Be realistic about what fits in a week
 
 **3. Blockers, risks, or dependencies [Omit if none]**
 
 - Anything that might slow you down
-- What you need from Soraya, your advisor, or another club
+- What you need from your leader or another team
 - Decisions you are waiting on
 
-**4. What students should know [Required]**
+### One extra section for club leaders
 
-- The part that gets published. Upcoming events with dates, deadlines, and how to
-  participate.
+Club co-presidents add a fourth section, because their updates are what
+the Friday Announcements block is built from.
+
+**4. What students should know [Required for club leaders]**
+
+- Upcoming events with dates, deadlines, and how to participate
 - Written for a student who is not in your club and may not be a strategy major. Spell out
   acronyms and say what the event is for.
+- Write it so it can be read aloud in class on Friday without editing.
 
 ## Example
 
 ```
-Subject: PMA Weekly Update - Week of Sep 8
+Subject: PMA Weekly Update - [Name] - Week of Sep 8
 
 Hi Soraya,
 
-What we did this week:
+What I did this week:
 - Ran the PM resume workshop, 38 students attended, 22 from outside the strategy major
 - Confirmed Adobe for the Oct 2 info session
 - Sent 14 alumni outreach emails, 6 replies so far
@@ -114,9 +135,11 @@ Thanks,
 [Name]
 ```
 
+A VP update is shorter. Three sections, often five or six bullets total.
+
 ## Grading
 
-Twelve updates. Points and category weight are set on the
+Twelve updates, graded individually. Points and category weight are set on the
 [Assessments](00-assessments.qmd) page.
 
 | Status | Credit |
@@ -128,11 +151,14 @@ Twelve updates. Points and category weight are set on the
 The late cutoff is the start of class because an update that arrives after the session has
 already missed its second job, which is feeding the room.
 
+Missing the CC means the update cannot be tracked, and an untracked update does not count.
+Add `strategy-program@byu.edu` to your contacts in week one.
+
 ## What Makes a Good Update
 
 - **Short.** Bullets, not paragraphs. If it runs past one screen, cut it.
-- **Specific.** Numbers, names, dates. "Good turnout" tells Soraya nothing.
+- **Specific.** Numbers, names, dates. "Good turnout" tells your leader nothing.
 - **Honest about blockers.** Flagging a problem early is the entire point. A clean update
-  every week from a club that is struggling is worse than no update.
+  every week from a team that is struggling is worse than no update at all.
 - **Consistent.** The value is in the streak. Twelve on-time updates build a record of the
   semester that nobody has to reconstruct in December.

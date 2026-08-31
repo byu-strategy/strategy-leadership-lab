@@ -11,7 +11,8 @@ product, or corporate strategy belongs in the relevant club whether they are a s
 major or not. Roughly half the leaders in this room are majoring in something else.
 
 The program has grown by 50% over the last five years and now serves 120 new students per
-year through the major, and the clubs reach a wider group than that. The operating model
+year through the major, plus another 100 to 200 students from other majors across the
+Marriott School and campus. The operating model
 below aligns faculty, student leaders, career services, and academic advisement at that
 scale. It has three parts.
 
@@ -36,17 +37,18 @@ faculty advisors and career services support.
 
 MCA, PMA, and CSA co-presidents report operationally to Soraya Cullimore, with a dotted line
 to their faculty advisor. WSA is an affinity group providing community and mentorship; its
-president reports directly to Lena Lizunova.
+co-presidents report directly to Lena Lizunova.
 
 | Club | Full name | Mission | Faculty advisor |
 |---|---|---|---|
-| MCA | Management Consulting Association | Place students at consulting firms, any major | Dave Bryce |
+| MCA | Management Consulting Association | Place students at consulting firms, any major | David Bryce |
 | PMA | Product Management Association | Place students in PM and product adjacent roles, any major | Scott Murff |
 | CSA | Corporate Strategy Association | Place students in corporate strategy and ops roles, any major | Ben Lewis |
 | WSA | Women in Strategy Association | Community and mentorship for women across majors | Lena Lizunova |
 
-Ben Lewis is the current CSA advisor. The operating model PDF, written earlier, lists Mark
-Hansen.
+Ben Lewis is the current CSA advisor. Two earlier sources still say Mark Hansen: the
+operating model PDF, and the May 2026 email announcing the operating model. Ben Lewis is
+correct.
 
 ## 3. Leadership Selection
 
@@ -60,12 +62,12 @@ approval required.
 | Position | Count | Hiring committee |
 |---|---|---|
 | Presidency: co-presidents, VP Events, VP Marketing | 4 | Scott Murff |
-| MCA co-presidents | 2 | Soraya Cullimore and Dave Bryce |
+| MCA co-presidents | 2 | Soraya Cullimore and David Bryce |
 | PMA co-presidents | 2 | Soraya Cullimore and Scott Murff |
 | CSA co-presidents | 2 | Soraya Cullimore and Ben Lewis |
 | VP Alumni | 1 | Soraya Cullimore and Scott Murff |
 | VP Student Development | 1 | Lisa Giguere and Scott Murff |
-| WSA president | 1 | Lena Lizunova |
+| WSA co-presidents | 2 | Lena Lizunova |
 
 **Timeline.** Most positions are filled in March and active by May. MCA is the exception:
 co-presidents are selected in November, after consulting offers settle. Off-cycle graduations
