@@ -12,7 +12,7 @@ everyone.
 |---|---|---|
 | Weekly attendance | Be in the room each week. Absence policy TBD. | TBD |
 | Peer feedback | Give and receive structured feedback with the other leaders during the roundtable. | TBD |
-| AI proficiency | Demonstrate working proficiency with AI tools. Bar and evidence TBD. | TBD |
+| AI proficiency | Demonstrate working proficiency with AI tools. Requires a paid Claude Pro or ChatGPT Plus subscription, $20 per month, maintained all semester. Bar and evidence TBD. | TBD |
 
 Because student employees are paid for their leadership work, class sessions and
 class-specific assignments are not billable hours. Keep the two separate on your timesheet.

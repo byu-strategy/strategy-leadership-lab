@@ -13,6 +13,7 @@ STRAT 490R, Section 2
 # Syllabus
 
 **Instructor:** Scott Murff, Strategy Program Director\
+**Teaching Assistants:** Sarah Millett and Luke Stacey\
 **Credits:** 1.5, letter graded\
 **Semesters:** Fall and Winter\
 **Class Time:** Fridays, 12:30 to 1:45 PM\
@@ -23,15 +24,17 @@ STRAT 490R, Section 2
 ## Content Overview
 
 Strategy Leadership Lab is a weekly working session for the roughly 30 students who lead the
-BYU Strategy Program and its four clubs: MCA, PMA, CSA, and WSA. It exists to do two things at
-once: develop you as a leader, and give the whole leadership team protected time to coordinate
-on shared priorities.
+BYU Strategy Program and the four career clubs it administers: MCA, PMA, CSA, and WSA. Those
+clubs serve students across campus by career interest rather than by major, and the leadership
+team reflects that: about half of the people in this room are majoring in something other than
+strategy. It exists to do two things at once: develop you as a leader, and give the whole
+leadership team protected time to coordinate on shared priorities.
 
 The Lab is the primary coordination mechanism in the [Strategy Program operating
 model](01-operating-model.qmd). One meeting cadence governs the entire program.
 
-Enrollment is limited to program and club leaders. It is optional but encouraged for everyone
-serving in a presidency. If your schedule prevents you from enrolling, you are welcome to audit
+Enrollment is limited to program and club leaders and is open to them regardless of major. It
+is optional but encouraged for everyone serving in a presidency. If your schedule prevents you from enrolling, you are welcome to audit
 or simply attend.
 
 ## Weekly Structure
@@ -47,7 +50,27 @@ Each session runs in two blocks.
 
 All student leaders across the program: the presidency (co-presidents, VP Events, VP Marketing),
 the MCA, PMA, and CSA co-president pairs, the WSA president, VP Alumni, VP Student Development,
-and club VPs.
+and club VPs. They come from a range of majors, and the clubs they run serve a student
+population wider than the strategy major.
+
+## Required Tools
+
+Every student in the Lab maintains a paid AI subscription for the semester. Either one:
+
+| Tool | Tier | Cost |
+|---|---|---|
+| Claude | Pro | $20 per month |
+| ChatGPT | Plus | $20 per month |
+
+Claude Pro is the default and what the follow-along drills are built around. ChatGPT Plus is
+an accepted substitute. Free tiers do not work for this course: the usage limits stop you
+partway through a drill.
+
+Bring a laptop every week. The Drills block is a live follow-along and the Practice block is
+forty five minutes of working, so both require a machine and a working subscription.
+
+If the subscription is a financial hardship, talk to Scott before the add/drop deadline
+rather than dropping the course.
 
 ## Grading
 

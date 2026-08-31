@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Strategy Leadership Lab",
     "section": "",
-    "text": "Syllabus\nInstructor: Scott Murff, Strategy Program Director\nCredits: 1.5, letter graded\nSemesters: Fall and Winter\nClass Time: Fridays, 12:30 to 1:45 PM\nClass Location: 1315 TNRB\nOffice Hours: Wednesdays 1:30 to 3:30 PM in 587 TNRB, Fridays 3:00 to 3:30 PM by phone\nNote: The last 30 minutes on Wednesday (3:00 to 3:30) are by phone as well",
+    "text": "Syllabus\nInstructor: Scott Murff, Strategy Program Director\nTeaching Assistants: Sarah Millett and Luke Stacey\nCredits: 1.5, letter graded\nSemesters: Fall and Winter\nClass Time: Fridays, 12:30 to 1:45 PM\nClass Location: 1315 TNRB\nOffice Hours: Wednesdays 1:30 to 3:30 PM in 587 TNRB, Fridays 3:00 to 3:30 PM by phone\nNote: The last 30 minutes on Wednesday (3:00 to 3:30) are by phone as well",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Syllabus</span>"
@@ -15,7 +15,7 @@
     "href": "index.html#content-overview",
     "title": "Strategy Leadership Lab",
     "section": "Content Overview",
-    "text": "Content Overview\nStrategy Leadership Lab is a weekly working session for the roughly 30 students who lead the BYU Strategy Program and its four clubs: MCA, PMA, CSA, and WSA. It exists to do two things at once: develop you as a leader, and give the whole leadership team protected time to coordinate on shared priorities.\nThe Lab is the primary coordination mechanism in the Strategy Program operating model. One meeting cadence governs the entire program.\nEnrollment is limited to program and club leaders. It is optional but encouraged for everyone serving in a presidency. If your schedule prevents you from enrolling, you are welcome to audit or simply attend.",
+    "text": "Content Overview\nStrategy Leadership Lab is a weekly working session for the roughly 30 students who lead the BYU Strategy Program and the four career clubs it administers: MCA, PMA, CSA, and WSA. Those clubs serve students across campus by career interest rather than by major, and the leadership team reflects that: about half of the people in this room are majoring in something other than strategy. It exists to do two things at once: develop you as a leader, and give the whole leadership team protected time to coordinate on shared priorities.\nThe Lab is the primary coordination mechanism in the Strategy Program operating model. One meeting cadence governs the entire program.\nEnrollment is limited to program and club leaders and is open to them regardless of major. It is optional but encouraged for everyone serving in a presidency. If your schedule prevents you from enrolling, you are welcome to audit or simply attend.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Syllabus</span>"
@@ -37,7 +37,18 @@
     "href": "index.html#who-is-in-the-room",
     "title": "Strategy Leadership Lab",
     "section": "Who Is in the Room",
-    "text": "Who Is in the Room\nAll student leaders across the program: the presidency (co-presidents, VP Events, VP Marketing), the MCA, PMA, and CSA co-president pairs, the WSA president, VP Alumni, VP Student Development, and club VPs.",
+    "text": "Who Is in the Room\nAll student leaders across the program: the presidency (co-presidents, VP Events, VP Marketing), the MCA, PMA, and CSA co-president pairs, the WSA president, VP Alumni, VP Student Development, and club VPs. They come from a range of majors, and the clubs they run serve a student population wider than the strategy major.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Syllabus</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#required-tools",
+    "href": "index.html#required-tools",
+    "title": "Strategy Leadership Lab",
+    "section": "Required Tools",
+    "text": "Required Tools\nEvery student in the Lab maintains a paid AI subscription for the semester. Either one:\n\n\n\nTool\nTier\nCost\n\n\n\n\nClaude\nPro\n$20 per month\n\n\nChatGPT\nPlus\n$20 per month\n\n\n\nClaude Pro is the default and what the follow-along drills are built around. ChatGPT Plus is an accepted substitute. Free tiers do not work for this course: the usage limits stop you partway through a drill.\nBring a laptop every week. The Drills block is a live follow-along and the Practice block is forty five minutes of working, so both require a machine and a working subscription.\nIf the subscription is a financial hardship, talk to Scott before the add/drop deadline rather than dropping the course.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Syllabus</span>"
@@ -103,7 +114,7 @@
     "href": "00-assessments.html",
     "title": "Assessments",
     "section": "",
-    "text": "Assessments\nThe course is letter graded. Category weights are TBD. Three things are required of everyone.\n\n\n\n\n\n\n\n\nRequirement\nWhat it means\nWeight\n\n\n\n\nWeekly attendance\nBe in the room each week. Absence policy TBD.\nTBD\n\n\nPeer feedback\nGive and receive structured feedback with the other leaders during the roundtable.\nTBD\n\n\nAI proficiency\nDemonstrate working proficiency with AI tools. Bar and evidence TBD.\nTBD\n\n\n\nBecause student employees are paid for their leadership work, class sessions and class-specific assignments are not billable hours. Keep the two separate on your timesheet.",
+    "text": "Assessments\nThe course is letter graded. Category weights are TBD. Three things are required of everyone.\n\n\n\n\n\n\n\n\nRequirement\nWhat it means\nWeight\n\n\n\n\nWeekly attendance\nBe in the room each week. Absence policy TBD.\nTBD\n\n\nPeer feedback\nGive and receive structured feedback with the other leaders during the roundtable.\nTBD\n\n\nAI proficiency\nDemonstrate working proficiency with AI tools. Requires a paid Claude Pro or ChatGPT Plus subscription, $20 per month, maintained all semester. Bar and evidence TBD.\nTBD\n\n\n\nBecause student employees are paid for their leadership work, class sessions and class-specific assignments are not billable hours. Keep the two separate on your timesheet.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessments</span>"
@@ -114,7 +125,7 @@
     "href": "01-operating-model.html",
     "title": "Operating Model",
     "section": "",
-    "text": "Strategy Program Operating Model\nThe Strategy Program has grown by 50% over the last five years and now serves 120 new students per year. The operating model below aligns faculty, student leaders, career services, and academic advisement at that scale. It has three parts.",
+    "text": "Strategy Program Operating Model\nThe Strategy Program administers four career clubs that serve students across campus. Club membership is open by career interest, not by major: a student headed for consulting, product, or corporate strategy belongs in the relevant club whether they are a strategy major or not. Roughly half the leaders in this room are majoring in something else.\nThe program has grown by 50% over the last five years and now serves 120 new students per year through the major, and the clubs reach a wider group than that. The operating model below aligns faculty, student leaders, career services, and academic advisement at that scale. It has three parts.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Operating Model</span>"
@@ -125,7 +136,7 @@
     "href": "01-operating-model.html#integrated-leadership",
     "title": "Operating Model",
     "section": "1. Integrated Leadership",
-    "text": "1. Integrated Leadership\nFour roles share oversight of the student leadership team.\n\n\n\n\n\n\n\n\nRole\nWho\nResponsibility\n\n\n\n\nProgram Director\nScott Murff\nProgram strategy and cross-unit coordination\n\n\nBusiness Career Director\nSoraya Cullimore\nEmployer relationships; supervises the three career club co-president pairs\n\n\nAdvisement Director\nLisa Giguere\nAcademic advising and graduation planning\n\n\nClub faculty advisors\nSee below\nMentorship, industry connections, domain expertise",
+    "text": "1. Integrated Leadership\nFour roles share oversight of the student leadership team. They oversee the clubs on behalf of the whole student population the clubs serve, not only strategy majors.\n\n\n\n\n\n\n\n\nRole\nWho\nResponsibility\n\n\n\n\nProgram Director\nScott Murff\nProgram strategy and cross-unit coordination\n\n\nBusiness Career Director\nSoraya Cullimore\nEmployer relationships; supervises the three career club co-president pairs\n\n\nAdvisement Director\nLisa Giguere\nAcademic advising and graduation planning\n\n\nClub faculty advisors\nSee below\nMentorship, industry connections, domain expertise",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Operating Model</span>"
@@ -136,7 +147,7 @@
     "href": "01-operating-model.html#the-clubs",
     "title": "Operating Model",
     "section": "2. The Clubs",
-    "text": "2. The Clubs\nEach career club exists to open doors and prepare students for a specific profession. MCA, PMA, and CSA co-presidents report operationally to Soraya Cullimore, with a dotted line to their faculty advisor. WSA is an affinity group providing community and mentorship; its president reports directly to Lena Lizunova.\n\n\n\n\n\n\n\n\n\nClub\nFull name\nMission\nFaculty advisor\n\n\n\n\nMCA\nManagement Consulting Association\nPlace students at consulting firms\nDave Bryce\n\n\nPMA\nProduct Management Association\nPlace students in PM and product adjacent roles\nScott Murff\n\n\nCSA\nCorporate Strategy Association\nPlace students in corporate strategy and ops roles\nBen Lewis\n\n\nWSA\nWomen in Strategy Association\nCommunity and mentorship for women\nLena Lizunova\n\n\n\nBen Lewis is the current CSA advisor. The operating model PDF, written earlier, lists Mark Hansen.",
+    "text": "2. The Clubs\nEach career club exists to open doors and prepare students for a specific profession. The clubs are organized around where students are headed, not what they are majoring in, and are open to students from any major. The Strategy Program administers them and supplies the faculty advisors and career services support.\nMCA, PMA, and CSA co-presidents report operationally to Soraya Cullimore, with a dotted line to their faculty advisor. WSA is an affinity group providing community and mentorship; its president reports directly to Lena Lizunova.\n\n\n\n\n\n\n\n\n\nClub\nFull name\nMission\nFaculty advisor\n\n\n\n\nMCA\nManagement Consulting Association\nPlace students at consulting firms, any major\nDave Bryce\n\n\nPMA\nProduct Management Association\nPlace students in PM and product adjacent roles, any major\nScott Murff\n\n\nCSA\nCorporate Strategy Association\nPlace students in corporate strategy and ops roles, any major\nBen Lewis\n\n\nWSA\nWomen in Strategy Association\nCommunity and mentorship for women across majors\nLena Lizunova\n\n\n\nBen Lewis is the current CSA advisor. The operating model PDF, written earlier, lists Mark Hansen.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Operating Model</span>"
@@ -147,7 +158,7 @@
     "href": "01-operating-model.html#leadership-selection",
     "title": "Operating Model",
     "section": "3. Leadership Selection",
-    "text": "3. Leadership Selection\nCurrent co-presidents nominate successors. The hiring committee considers those nominations and makes the final decision. Volunteer VPs are selected by co-presidents with no committee approval required.\n\n\n\nPosition\nCount\nHiring committee\n\n\n\n\nPresidency: co-presidents, VP Events, VP Marketing\n4\nScott Murff\n\n\nMCA co-presidents\n2\nSoraya Cullimore and Dave Bryce\n\n\nPMA co-presidents\n2\nSoraya Cullimore and Scott Murff\n\n\nCSA co-presidents\n2\nSoraya Cullimore and Ben Lewis\n\n\nVP Alumni\n1\nSoraya Cullimore and Scott Murff\n\n\nVP Student Development\n1\nLisa Giguere and Scott Murff\n\n\nWSA president\n1\nLena Lizunova\n\n\n\nTimeline. Most positions are filled in March and active by May. MCA is the exception: co-presidents are selected in November, after consulting offers settle. Off-cycle graduations can create mid-year vacancies, which the relevant hiring committee fills as needed.\nMCA co-president criteria: demonstrated success in consulting recruiting, leadership ability, and credibility to represent the program to top firms.",
+    "text": "3. Leadership Selection\nLeadership positions are open to students from any major. What qualifies someone is credibility in the career track the club serves, not enrollment in the strategy major.\nCurrent co-presidents nominate successors. The hiring committee considers those nominations and makes the final decision. Volunteer VPs are selected by co-presidents with no committee approval required.\n\n\n\nPosition\nCount\nHiring committee\n\n\n\n\nPresidency: co-presidents, VP Events, VP Marketing\n4\nScott Murff\n\n\nMCA co-presidents\n2\nSoraya Cullimore and Dave Bryce\n\n\nPMA co-presidents\n2\nSoraya Cullimore and Scott Murff\n\n\nCSA co-presidents\n2\nSoraya Cullimore and Ben Lewis\n\n\nVP Alumni\n1\nSoraya Cullimore and Scott Murff\n\n\nVP Student Development\n1\nLisa Giguere and Scott Murff\n\n\nWSA president\n1\nLena Lizunova\n\n\n\nTimeline. Most positions are filled in March and active by May. MCA is the exception: co-presidents are selected in November, after consulting offers settle. Off-cycle graduations can create mid-year vacancies, which the relevant hiring committee fills as needed.\nMCA co-president criteria: demonstrated success in consulting recruiting, leadership ability, and credibility to represent the program to top firms.",
     "crumbs": [
       "Course Information",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Operating Model</span>"
@@ -165,6 +176,94 @@
     ]
   },
   {
+    "objectID": "02-session-template.html",
+    "href": "02-session-template.html",
+    "title": "Session Template",
+    "section": "",
+    "text": "Session Template\nEvery session runs the same five blocks in the same order, the way a practice does. The sequence does not change week to week. What changes is the content inside each block.\nThe first four blocks are the 30 minute leadership development block. Practice is the 45 minute working block, published on the schedule as the project roundtable.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Session Template</span>"
+    ]
+  },
+  {
+    "objectID": "02-session-template.html#announcements-5-min",
+    "href": "02-session-template.html#announcements-5-min",
+    "title": "Session Template",
+    "section": "Announcements (5 min)",
+    "text": "Announcements (5 min)\nProgram logistics only. Anything that takes longer than a minute to explain belongs in Practice or in email. Standing items:\n\nUpcoming club events and who owns them\nDeadlines landing this week or next\nRecruiting calendar changes\nNew hires, role changes, vacancies",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Session Template</span>"
+    ]
+  },
+  {
+    "objectID": "02-session-template.html#quote-of-the-day-and-leader-profile-5-min",
+    "href": "02-session-template.html#quote-of-the-day-and-leader-profile-5-min",
+    "title": "Session Template",
+    "section": "Quote of the Day and Leader Profile (5 min)",
+    "text": "Quote of the Day and Leader Profile (5 min)\nOne quote and one leader, together in five minutes. Keep the profile to three or four sentences: who they are, the decision or moment worth knowing, what it cost them.\nRotate who presents. A student leader takes this block, signs up a week ahead, and picks both the quote and the profile. The only constraint is that the pair should connect to the week’s principle.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Session Template</span>"
+    ]
+  },
+  {
+    "objectID": "02-session-template.html#leadership-principle-10-min",
+    "href": "02-session-template.html#leadership-principle-10-min",
+    "title": "Session Template",
+    "section": "Leadership Principle (10 min)",
+    "text": "Leadership Principle (10 min)\nOne principle, taught. The operating model names three skill areas to draw from: influence, conflict, and managing up. Guest speakers and case discussions fill this block too.\nTen minutes buys one idea, not three. State the principle, give one example of it working, give one example of it failing, then move to Drills.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Session Template</span>"
+    ]
+  },
+  {
+    "objectID": "02-session-template.html#drills-10-min",
+    "href": "02-session-template.html#drills-10-min",
+    "title": "Session Template",
+    "section": "Drills (10 min)",
+    "text": "Drills (10 min)\nA follow-along. You are at the front with your screen up, everyone has a laptop open, and the room builds the same thing at the same time. Nobody watches a demo. If a student’s screen is dark, the drill is not working.\nThe default format is an AI follow-along: you narrate the prompt, everyone types their own version, and the interesting part is where the outputs differ. Ten minutes is enough for one artifact, not a workflow. Pick something a leader would actually produce this week.\nCandidates:\n\nDraft the recruiting email to a firm contact, then compare what six people got back\nTurn a messy set of event notes into a one page brief\nBuild the agenda for a club presidency meeting from a two sentence description\nTake a plan someone wrote and have AI argue against it, then judge whether it was right\nSummarize a case or article into the three sentences you would say out loud\n\nRules that keep it a drill and not a lecture:\n\nEveryone types. You go slow enough that the slowest person keeps up.\nSame starting prompt for the room, so the differences are visible.\nStop at ten minutes even if it is unfinished. Unfinished is fine, it makes the point.\nTwo or three people read their output out loud before you move on.\n\nIf a follow-along needs more room, take the extra five minutes from Practice rather than from the Principle block.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Session Template</span>"
+    ]
+  },
+  {
+    "objectID": "02-session-template.html#practice-45-min",
+    "href": "02-session-template.html#practice-45-min",
+    "title": "Session Template",
+    "section": "Practice (45 min)",
+    "text": "Practice (45 min)\nStudents take the rest of the hour and actually do the work. The drill showed them the move once. Practice is where they run it on their own club’s real deliverable, at their own desk, for forty five minutes.\nScott, Sarah, and Luke roam the room the whole time. Roaming is the instruction method here. There is no front of the room during Practice.\nWhat roaming looks like:\n\nRead over a shoulder before saying anything\nAsk what they are trying to do, not what they are doing\nTwo minutes per student, then move. Come back around rather than camping.\nCarry patterns forward: if three people hit the same wall, stop the room and say so\n\nSarah and Luke have two modes and can pick per week:\n\nIn the room. Roam alongside Scott, same job, three coaches covering thirty students.\nBroken out. Pull a subgroup into a side conversation: a club that needs focused help, a first-time VP who needs onboarding, a team with a deadline that week. Or run their own work while available to the room.\n\nDecide the mode in prep, not on the fly, so the room knows who to look for.\nClub and presidency updates and cross-team coordination still need a home. Either give them the first ten minutes of Practice before students scatter, or fold the standing items into Announcements. Pick one and keep it the same every week.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Session Template</span>"
+    ]
+  },
+  {
+    "objectID": "02-session-template.html#weekly-prep-checklist",
+    "href": "02-session-template.html#weekly-prep-checklist",
+    "title": "Session Template",
+    "section": "Weekly Prep Checklist",
+    "text": "Weekly Prep Checklist\n\nAnnouncements collected from club leaders by Thursday\nQuote and Leader Profile presenter confirmed\nPrinciple chosen, with one success example and one failure example\nFollow-along built and run once yourself, with the starting prompt written down\nPractice: what each club is working on, so roaming has a target\nSarah and Luke’s mode set for the week: roaming or broken out",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Session Template</span>"
+    ]
+  },
+  {
+    "objectID": "02-session-template.html#blank-session-plan",
+    "href": "02-session-template.html#blank-session-plan",
+    "title": "Session Template",
+    "section": "Blank Session Plan",
+    "text": "Blank Session Plan\nCopy this for each week.\nSession #__  |  Date: ______\n\nANNOUNCEMENTS (5)\n-\n\nQUOTE + LEADER PROFILE (5)\nPresenter:\nQuote:\nLeader:\n\nPRINCIPLE (10)\nPrinciple:\nWorks:\nFails:\n\nDRILLS (10) - follow along\nWhat we build:\nTool:\nStarting prompt:\n\nPRACTICE (45) - they work, we roam\nWhat each club is working on:\nSarah:  [ ] roaming  [ ] breakout with ______\nLuke:   [ ] roaming  [ ] breakout with ______\nUpdates / coordination handled in: [ ] Announcements  [ ] first 10 of Practice",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Session Template</span>"
+    ]
+  },
+  {
     "objectID": "90-resources.html",
     "href": "90-resources.html",
     "title": "Resources",
@@ -172,7 +271,7 @@
     "text": "Resources\n\nOperating Model, the structure this course coordinates\nLeadership roster spreadsheet: keep your presidency current as roles change\nReadings and guest speaker materials: to be added",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Resources</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Resources</span>"
     ]
   }
 ]

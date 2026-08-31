@@ -1,0 +1,145 @@
+---
+title: "Session Template"
+author: "Scott Murff"
+---
+
+# Session Template
+
+Every session runs the same five blocks in the same order, the way a practice does. The
+sequence does not change week to week. What changes is the content inside each block.
+
+| Block | Minutes | Clock | Purpose |
+|---|---|---|---|
+| Announcements | 5 | 12:30 | Logistics, deadlines, program news |
+| Quote of the Day and Leader Profile | 5 | 12:35 | One quote, one leader, briefly |
+| Leadership Principle | 10 | 12:40 | The week's concept, taught |
+| Drills | 10 | 12:50 | Follow along and build it live, usually with AI |
+| Practice | 45 | 1:00 | Work session. Students build, coaches roam |
+
+The first four blocks are the 30 minute leadership development block. Practice is the 45
+minute working block, published on the schedule as the project roundtable.
+
+## Announcements (5 min)
+
+Program logistics only. Anything that takes longer than a minute to explain belongs in
+Practice or in email. Standing items:
+
+- Upcoming club events and who owns them
+- Deadlines landing this week or next
+- Recruiting calendar changes
+- New hires, role changes, vacancies
+
+## Quote of the Day and Leader Profile (5 min)
+
+One quote and one leader, together in five minutes. Keep the profile to three or four
+sentences: who they are, the decision or moment worth knowing, what it cost them.
+
+Rotate who presents. A student leader takes this block, signs up a week ahead, and picks
+both the quote and the profile. The only constraint is that the pair should connect to the
+week's principle.
+
+## Leadership Principle (10 min)
+
+One principle, taught. The operating model names three skill areas to draw from: influence,
+conflict, and managing up. Guest speakers and case discussions fill this block too.
+
+Ten minutes buys one idea, not three. State the principle, give one example of it working,
+give one example of it failing, then move to Drills.
+
+## Drills (10 min)
+
+A follow-along. You are at the front with your screen up, everyone has a laptop open, and
+the room builds the same thing at the same time. Nobody watches a demo. If a student's
+screen is dark, the drill is not working.
+
+The default format is an AI follow-along: you narrate the prompt, everyone types their own
+version, and the interesting part is where the outputs differ. Ten minutes is enough for one
+artifact, not a workflow. Pick something a leader would actually produce this week.
+
+Candidates:
+
+- Draft the recruiting email to a firm contact, then compare what six people got back
+- Turn a messy set of event notes into a one page brief
+- Build the agenda for a club presidency meeting from a two sentence description
+- Take a plan someone wrote and have AI argue against it, then judge whether it was right
+- Summarize a case or article into the three sentences you would say out loud
+
+Rules that keep it a drill and not a lecture:
+
+- Everyone types. You go slow enough that the slowest person keeps up.
+- Same starting prompt for the room, so the differences are visible.
+- Stop at ten minutes even if it is unfinished. Unfinished is fine, it makes the point.
+- Two or three people read their output out loud before you move on.
+
+If a follow-along needs more room, take the extra five minutes from Practice rather than
+from the Principle block.
+
+## Practice (45 min)
+
+Students take the rest of the hour and actually do the work. The drill showed them the move
+once. Practice is where they run it on their own club's real deliverable, at their own desk,
+for forty five minutes.
+
+Scott, Sarah, and Luke roam the room the whole time. Roaming is the instruction method here.
+There is no front of the room during Practice.
+
+What roaming looks like:
+
+- Read over a shoulder before saying anything
+- Ask what they are trying to do, not what they are doing
+- Two minutes per student, then move. Come back around rather than camping.
+- Carry patterns forward: if three people hit the same wall, stop the room and say so
+
+Sarah and Luke have two modes and can pick per week:
+
+- **In the room.** Roam alongside Scott, same job, three coaches covering thirty students.
+- **Broken out.** Pull a subgroup into a side conversation: a club that needs focused help, a
+  first-time VP who needs onboarding, a team with a deadline that week. Or run their own
+  work while available to the room.
+
+Decide the mode in prep, not on the fly, so the room knows who to look for.
+
+Club and presidency updates and cross-team coordination still need a home. Either give them
+the first ten minutes of Practice before students scatter, or fold the standing items into
+Announcements. Pick one and keep it the same every week.
+
+## Weekly Prep Checklist
+
+- [ ] Announcements collected from club leaders by Thursday
+- [ ] Quote and Leader Profile presenter confirmed
+- [ ] Principle chosen, with one success example and one failure example
+- [ ] Follow-along built and run once yourself, with the starting prompt written down
+- [ ] Practice: what each club is working on, so roaming has a target
+- [ ] Sarah and Luke's mode set for the week: roaming or broken out
+
+## Blank Session Plan
+
+Copy this for each week.
+
+```
+Session #__  |  Date: ______
+
+ANNOUNCEMENTS (5)
+-
+
+QUOTE + LEADER PROFILE (5)
+Presenter:
+Quote:
+Leader:
+
+PRINCIPLE (10)
+Principle:
+Works:
+Fails:
+
+DRILLS (10) - follow along
+What we build:
+Tool:
+Starting prompt:
+
+PRACTICE (45) - they work, we roam
+What each club is working on:
+Sarah:  [ ] roaming  [ ] breakout with ______
+Luke:   [ ] roaming  [ ] breakout with ______
+Updates / coordination handled in: [ ] Announcements  [ ] first 10 of Practice
+```

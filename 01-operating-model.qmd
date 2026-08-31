@@ -5,13 +5,20 @@ author: "Scott Murff"
 
 # Strategy Program Operating Model
 
-The Strategy Program has grown by 50% over the last five years and now serves 120 new students
-per year. The operating model below aligns faculty, student leaders, career services, and
-academic advisement at that scale. It has three parts.
+The Strategy Program administers four career clubs that serve students across campus. Club
+membership is open by career interest, not by major: a student headed for consulting,
+product, or corporate strategy belongs in the relevant club whether they are a strategy
+major or not. Roughly half the leaders in this room are majoring in something else.
+
+The program has grown by 50% over the last five years and now serves 120 new students per
+year through the major, and the clubs reach a wider group than that. The operating model
+below aligns faculty, student leaders, career services, and academic advisement at that
+scale. It has three parts.
 
 ## 1. Integrated Leadership
 
-Four roles share oversight of the student leadership team.
+Four roles share oversight of the student leadership team. They oversee the clubs on behalf
+of the whole student population the clubs serve, not only strategy majors.
 
 | Role | Who | Responsibility |
 |---|---|---|
@@ -22,22 +29,29 @@ Four roles share oversight of the student leadership team.
 
 ## 2. The Clubs
 
-Each career club exists to open doors and prepare students for a specific profession. MCA, PMA,
-and CSA co-presidents report operationally to Soraya Cullimore, with a dotted line to their
-faculty advisor. WSA is an affinity group providing community and mentorship; its president
-reports directly to Lena Lizunova.
+Each career club exists to open doors and prepare students for a specific profession. The
+clubs are organized around where students are headed, not what they are majoring in, and are
+open to students from any major. The Strategy Program administers them and supplies the
+faculty advisors and career services support.
+
+MCA, PMA, and CSA co-presidents report operationally to Soraya Cullimore, with a dotted line
+to their faculty advisor. WSA is an affinity group providing community and mentorship; its
+president reports directly to Lena Lizunova.
 
 | Club | Full name | Mission | Faculty advisor |
 |---|---|---|---|
-| MCA | Management Consulting Association | Place students at consulting firms | Dave Bryce |
-| PMA | Product Management Association | Place students in PM and product adjacent roles | Scott Murff |
-| CSA | Corporate Strategy Association | Place students in corporate strategy and ops roles | Ben Lewis |
-| WSA | Women in Strategy Association | Community and mentorship for women | Lena Lizunova |
+| MCA | Management Consulting Association | Place students at consulting firms, any major | Dave Bryce |
+| PMA | Product Management Association | Place students in PM and product adjacent roles, any major | Scott Murff |
+| CSA | Corporate Strategy Association | Place students in corporate strategy and ops roles, any major | Ben Lewis |
+| WSA | Women in Strategy Association | Community and mentorship for women across majors | Lena Lizunova |
 
 Ben Lewis is the current CSA advisor. The operating model PDF, written earlier, lists Mark
 Hansen.
 
 ## 3. Leadership Selection
+
+Leadership positions are open to students from any major. What qualifies someone is
+credibility in the career track the club serves, not enrollment in the strategy major.
 
 Current co-presidents nominate successors. The hiring committee considers those nominations and
 makes the final decision. Volunteer VPs are selected by co-presidents with no committee
