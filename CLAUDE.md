@@ -66,3 +66,6 @@ graded. Do not restore Pass/Fail from the PDF.
 
 - No em dashes anywhere in this repository
 - Plain, factual prose. Scott adds the flourishes
+- No dramatic or coaching language. Examples Scott rejected: "Follow the fire," "own the
+  front of the room," "Get twenty-six busy people to think out loud." Say what the student
+  does, when it is due, and how it is graded, and stop

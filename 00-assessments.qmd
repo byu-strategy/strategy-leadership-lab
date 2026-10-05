@@ -12,7 +12,7 @@ The course is letter graded. Four things are graded.
 | Weekly update emails | Twelve updates to the person you report to, CC strategy-program@byu.edu. VPs Friday, presidencies Monday. See [Weekly Updates](03-weekly-updates.qmd). | 40% |
 | Attendance | Be in the room. Thirteen sessions, one free absence. | 25% |
 | Feedback conversations | Two conversations with your leader, midterm and final, plus a short reflection each time. See [Feedback Conversations](04-peer-feedback.qmd). | 20% |
-| Discussant | Lead the discussion once, including a one-page brief on the reading. See [Being a Discussant](05-discussant.qmd). | 15% |
+| Discussant | Pick a company or leader, share a short pre-read, and lead a 15 minute discussion once. See [Being a Discussant](05-discussant.qmd). | 15% |
 
 Nothing in this course is graded on hours worked. Every component is available in full to an
 unpaid volunteer VP and a paid employee alike, by design. See Credit and Pay in the
@@ -74,22 +74,10 @@ the free absence on it.
 
 ## Discussant
 
-Once during the semester you lead the front of the room for fifteen minutes. The reading,
-quote, and scripture are assigned; you bring a leader profile, one question of your own, and
-the facilitation. Two or three discussants share each
-session, so everyone takes exactly one turn.
-
-Your job is to run the discussion, not to summarize the reading. Three of the four questions
-are the same every week and are written for you; the fourth is yours, on anything you are
-curious about. If the discussants are
-the only ones talking, it has not worked.
-
-Circulate a one-page brief on the reading by **Tuesday 11:59 PM** so the rest of the room can
-take part whether or not they finished it. The brief is graded with the turn.
-
-Sign-ups happen in week one. Everyone gets one turn, so the fifteen minutes weigh the same
-for a paid co-president and an unpaid VP. Full detail, including how to run a discussion that
-does not die, is on the [Being a Discussant](05-discussant.qmd) page.
+Once during the semester you and up to two classmates pick a company or leader, put a link
+to a short pre-read in the sign-up sheet by Tuesday 11:59 PM, and lead a 15 minute
+discussion that Friday. Details and grading are on the
+[Being a Discussant](05-discussant.qmd) page.
 
 There is no separate AI assessment. AI proficiency is built and demonstrated in the weekly
 drills, which is why the paid subscription is required. See Required Tools in the

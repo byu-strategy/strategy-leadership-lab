@@ -11,7 +11,7 @@ sequence does not change week to week. What changes is the content inside each b
 | Block | Minutes | Clock | Purpose |
 |---|---|---|---|
 | Announcements | 5 | 12:30 | Logistics, deadlines, program news |
-| Discussant block | 15 | 12:35 | Quote and scripture, leader profile, and the week's reading, student led |
+| Discussant block | 15 | 12:35 | A company or leader chosen by the discussants, student led |
 | Drills | 10 | 12:50 | Follow along and build it live, usually with AI |
 | Practice | 45 | 1:00 | Work session. Students build, coaches roam |
 
@@ -30,26 +30,10 @@ Practice or in email. Standing items:
 
 ## Discussant Block (15 min)
 
-Student led, faculty curated. You assign the reading, the quote, and the scripture. Two or
-three discussants deliver them, add a leader profile of their own choosing, and run the
-discussion. Everyone takes one turn across the semester.
-
-The reading carries the week's leadership principle, drawn from the three skill areas the
-operating model names: influence, conflict, and managing up. Guest speakers and case
-discussions take this block on the weeks they appear.
-
-Keep the quote, scripture, and profile to five minutes together. The quote and scripture are
-always a pair, both speaking to the same principle from two directions. The profile is three
-or four sentences: who they are, the decision worth knowing, what it cost them.
-
-**Run a discussion, do not give a presentation.** Fifteen minutes split two or three ways is
-not enough to summarize a reading, and a summary is not what the block is for. Three standing
-questions carry every week, grounded in the golden mean: name the virtue, name where it
-becomes a vice, name when the quote stops applying. Discussants add a fourth of their own. If
-the discussants are the only ones talking, it has failed.
-
-Discussants circulate a one-page brief by Tuesday 11:59 PM so someone who did not finish the
-reading can still take part.
+Up to three discussants pick a company or leader, put a link to a short pre-read in the
+sign-up sheet by Tuesday 11:59 PM, and lead the discussion. Everyone takes one turn across the
+semester. Guest speakers and case discussions take this block on the weeks they appear. See
+[Being a Discussant](05-discussant.qmd).
 
 ## Drills (10 min)
 
@@ -111,9 +95,8 @@ Announcements. Pick one and keep it the same every week.
 ## Weekly Prep Checklist
 
 - [ ] Announcements pulled from Monday's presidency roll-ups
-- [ ] Reading, quote, and scripture assigned well ahead of the discussants' prep
-- [ ] Discussants confirmed, brief circulated Tuesday
-- [ ] Principle the reading carries is clear to you, with one success and one failure example in reserve
+- [ ] Discussants confirmed, pre-read link in the sign-up sheet by Tuesday
+- [ ] Pre-read read yourself, with one or two questions in reserve if the room is quiet
 - [ ] Follow-along built and run once yourself, with the starting prompt written down
 - [ ] Practice: what each club is working on, so roaming has a target
 - [ ] Sarah and Luke's mode set for the week: roaming or broken out
@@ -130,14 +113,8 @@ ANNOUNCEMENTS (5)
 
 DISCUSSANT BLOCK (15)
 Discussants:
-Reading:
-Principle it carries:
-Quote:
-Scripture:
-Principle they share:
-Leader profile:
-Own fourth question:
-Backup if the room is quiet:
+Company or leader:
+Pre-read link:
 
 DRILLS (10) - follow along
 What we build:
