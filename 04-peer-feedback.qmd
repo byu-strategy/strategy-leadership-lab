@@ -5,7 +5,7 @@ author: "Scott Murff"
 
 # Feedback Conversations
 
-Twice a semester you sit down with the person you report to and have a real conversation
+Once, at the end of the semester, you sit down with the person you report to and have a real conversation
 about how the work is going, in both directions. Then each of you submits a short reflection
 saying it happened and what you took from it.
 
@@ -37,18 +37,17 @@ from scratch.
 | Program VPs | The program co-presidents |
 | Program co-presidents | Scott Murff, and each other |
 
-Co-president pairs meet with each other in the same round. You two have more visibility into
+Co-president pairs also meet with each other. You two have more visibility into
 each other's work than anyone else in the program, and no form would capture it.
 
-## The Rounds
+## When
 
-| Round | Conversations held | Reflection due | Purpose |
-|---|---|---|---|
-| Midterm | Oct 5 to Oct 16 | Fri, Oct 16, 11:59 PM | Developmental. Time to change something |
-| Final | Nov 17 to Dec 4 | Fri, Dec 4, 11:59 PM | Closing the loop on what changed |
+| Conversation held | Reflection due |
+|---|---|
+| Nov 17 to Dec 4 | Fri, Dec 4, 11:59 PM |
 
-Schedule the conversation yourself. If a pair has not met by the Friday a round closes, use
-that session's Practice block.
+Schedule the conversation yourself. If a pair has not met by Fri, Dec 4, use that session's
+Practice block.
 
 ## How the Conversation Goes
 

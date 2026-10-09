@@ -80,9 +80,9 @@ The course is letter graded. Four components:
 
 | Component | Weight |
 |---|---|
-| Weekly update emails | 40% |
+| Weekly update emails | 50% |
 | Attendance | 25% |
-| Feedback conversations | 20% |
+| Feedback conversation | 10% |
 | Discussant | 15% |
 
 Nothing is graded on hours worked, so an unpaid volunteer VP can earn full marks. See

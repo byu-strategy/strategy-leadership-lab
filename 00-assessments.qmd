@@ -9,9 +9,9 @@ The course is letter graded. Four things are graded.
 
 | Component | What it means | Weight |
 |---|---|---|
-| Weekly update emails | Twelve updates to the person you report to, CC strategy-program@byu.edu. VPs Friday, presidencies Monday. See [Weekly Updates](03-weekly-updates.qmd). | 40% |
+| Weekly update emails | Twelve updates to the person you report to, CC strategy-program@byu.edu. VPs Friday, presidencies Monday. See [Weekly Updates](03-weekly-updates.qmd). | 50% |
 | Attendance | Be in the room. Thirteen sessions, one free absence. | 25% |
-| Feedback conversations | Two conversations with your leader, midterm and final, plus a short reflection each time. See [Feedback Conversations](04-peer-feedback.qmd). | 20% |
+| Feedback conversation | One conversation with your leader at the end of the semester, plus a short reflection. See [Feedback Conversations](04-peer-feedback.qmd). | 10% |
 | Discussant | Pick a company or leader, share a short pre-read, and lead a 15 minute discussion once. See [Being a Discussant](05-discussant.qmd). | 15% |
 
 Nothing in this course is graded on hours worked. Every component is available in full to an
@@ -35,15 +35,14 @@ something to roll up.
 Nothing here requires working on a Saturday or a Sunday. The reporting table, format, and an
 example are on the [Weekly Updates](03-weekly-updates.qmd) page.
 
-## Feedback Conversations
+## Feedback Conversation
 
-Two rounds. You meet with the person you report to, both of you give feedback, and each of
-you submits a short reflection afterward.
+One conversation at the end of the semester. You meet with the person you report to, both of
+you give feedback, and each of you submits a short reflection afterward.
 
-| Round | Conversations held | Reflection due |
-|---|---|---|
-| Midterm | Oct 5 to Oct 16 | Fri, Oct 16, 11:59 PM |
-| Final | Nov 17 to Dec 4 | Fri, Dec 4, 11:59 PM |
+| Conversation held | Reflection due |
+|---|---|
+| Nov 17 to Dec 4 | Fri, Dec 4, 11:59 PM |
 
 The reflection is what is graded, not the feedback. Nothing anyone says about you affects
 your grade. Details are on the [Feedback Conversations](04-peer-feedback.qmd) page.
