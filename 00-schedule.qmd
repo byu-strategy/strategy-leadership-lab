@@ -5,7 +5,7 @@ author: "Scott Murff"
 
 # Schedule
 
-Fridays 12:30 to 1:45 PM in 1315 TNRB. Thirteen sessions, Sep 4 through Dec 4. Each session is
+Fridays 12:30 to 1:45 PM in 1315 TNRB. Twelve sessions, Sep 4 through Dec 4. Each session is
 30 minutes of leadership development followed by a 45 minute project roundtable.
 
 | # | Date | Leadership development (30 min) | Roundtable (45 min) |
@@ -16,13 +16,12 @@ Fridays 12:30 to 1:45 PM in 1315 TNRB. Thirteen sessions, Sep 4 through Dec 4. E
 | 4 | Fri, Sep 25 | TBD | Club and presidency updates |
 | 5 | Fri, Oct 2 | TBD | Club and presidency updates |
 | 6 | Fri, Oct 9 | TBD | Club and presidency updates |
-| 7 | Fri, Oct 16 | TBD | Club and presidency updates |
-| 8 | Fri, Oct 23 | TBD | Club and presidency updates |
-| 9 | Fri, Oct 30 | TBD | Club and presidency updates |
-| 10 | Fri, Nov 6 | TBD | Club and presidency updates |
-| 11 | Fri, Nov 13 | TBD | Club and presidency updates |
-| 12 | Fri, Nov 20 | TBD | Club and presidency updates |
-| 13 | Fri, Dec 4 | TBD | Club and presidency updates |
+| 7 | Fri, Oct 23 | TBD | Club and presidency updates |
+| 8 | Fri, Oct 30 | TBD | Club and presidency updates |
+| 9 | Fri, Nov 6 | TBD | Club and presidency updates |
+| 10 | Fri, Nov 13 | TBD | Club and presidency updates |
+| 11 | Fri, Nov 20 | TBD | Club and presidency updates |
+| 12 | Fri, Dec 4 | TBD | Club and presidency updates |
 
 The leadership development column is a placeholder except for session 1. The operating model
 names three skill areas to draw from: influence, conflict, and managing up, alongside guest
@@ -34,9 +33,10 @@ speakers and case discussions.
 |---|---|
 | Wed, Sep 2 | First day of classes (this course first meets Fri, Sep 4) |
 | Thu, Sep 10 | Add/drop deadline |
+| Fri, Oct 16 | No class |
 | Tue, Nov 24 | Withdraw deadline |
 | Fri, Nov 27 | Thanksgiving holiday, no class |
 | Thu, Dec 10 | Last day of classes |
 | Wed, Dec 23 | Grades due |
 
-There is no final exam. Nov 27 is the only Friday lost to the holiday calendar.
+There is no final exam. There is no class Oct 16 or Nov 27.

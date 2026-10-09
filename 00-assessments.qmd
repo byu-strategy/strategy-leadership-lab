@@ -10,7 +10,7 @@ The course is letter graded. Four things are graded.
 | Component | What it means | Weight |
 |---|---|---|
 | Weekly update emails | Twelve updates to the person you report to, CC strategy-program@byu.edu. VPs Friday, presidencies Monday. See [Weekly Updates](03-weekly-updates.qmd). | 50% |
-| Attendance | Be in the room. Thirteen sessions, one free absence. | 25% |
+| Attendance | Be in the room. Twelve sessions, one free absence. | 25% |
 | Feedback conversation | One conversation with your leader at the end of the semester, plus a short reflection. See [Feedback Conversations](04-peer-feedback.qmd). | 10% |
 | Discussant | Pick a company or leader, share a short pre-read, and lead a 15 minute discussion once. See [Being a Discussant](05-discussant.qmd). | 15% |
 
@@ -49,7 +49,8 @@ your grade. Details are on the [Feedback Conversations](04-peer-feedback.qmd) pa
 
 ## Attendance
 
-Thirteen sessions.
+Twelve sessions. Attendance is taken starting Fri, Oct 9. Everyone has full credit for the
+sessions before that.
 
 **Everyone gets one free absence, no questions asked.** Do not email anyone about it, do not
 explain it, do not apologize for it. It is yours to spend on whatever the semester throws at
@@ -60,8 +61,8 @@ After that, absences count.
 | Sessions missed | Attendance credit |
 |---|---|
 | 0 or 1 | Full |
-| 2 | 12 of 13 |
-| 3 | 11 of 13 |
+| 2 | 11 of 12 |
+| 3 | 10 of 12 |
 | and so on | one session per absence |
 
 Each absence past the first costs about two points of your final grade.
