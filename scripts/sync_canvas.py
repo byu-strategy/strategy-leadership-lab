@@ -78,7 +78,8 @@ anyone says about you affects your grade.</p>
 DISCUSSANT_DESC = f"""<p>Once during the semester, with up to two classmates, pick a company or
 leader, email a short pre-read to the class and link it in the sign-up sheet by Tuesday
 11:59 PM, and lead a 15 minute discussion that Friday. Nothing is submitted in Canvas. Your due
-date is your session. See <a href="{SITE}/05-discussant.html">Being a Discussant</a>.</p>"""
+date is your session. See <a href="{SITE}/05-discussant.html">Being a Discussant</a>.</p>
+<p>Sign up and post your pre-read link here: <a href="{{sheet}}">Discussant sign-up sheet</a>.</p>"""
 
 DISCUSSANT_RUBRIC = [
     ("Pre-read emailed to the class and linked in the sign-up sheet on time", 5),
@@ -105,7 +106,8 @@ def build_assignments(ov):
     disc_ov = [dict(title=f"Discussants {short(d)}", student_ids=list(ids), due_at=due(f"{d} 12:30"))
                for d, ids in sorted(ov["discussant_sessions"].items())]
     out.append(dict(name="Discussant", group="Discussant", points=15, due=None,
-                    desc=DISCUSSANT_DESC, types=["none"], overrides=disc_ov))
+                    desc=DISCUSSANT_DESC.format(sheet=ov["signup_sheet_url"]), types=["none"],
+                    overrides=disc_ov))
     return out
 
 
@@ -203,9 +205,9 @@ def main():
     api.clear_modules()
     start = api.create_module("Start here", 1)
     api.add_module_url(start["id"], "Course website: syllabus, schedule, assessments", SITE + "/", 1)
-    api.add_module_url(start["id"], "Discussant sign-up sheet",
-                       ov["signup_sheet_url"], 2)
-    api.add_module_assignment(start["id"], ids["Discussant"], 3)
+    api.add_module_url(start["id"], "Being a Discussant", SITE + "/05-discussant.html", 2)
+    api.add_module_url(start["id"], "Discussant sign-up sheet", ov["signup_sheet_url"], 3)
+    api.add_module_assignment(start["id"], ids["Discussant"], 4)
     api.publish_module(start["id"])
     for pos, (label, items) in enumerate(modules_plan(list(ids)), 2):
         m = api.create_module(label, pos)
