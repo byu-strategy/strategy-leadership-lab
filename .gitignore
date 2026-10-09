@@ -19,3 +19,4 @@ _materials
 .env
 .env.local
 _secrets
+__pycache__
